@@ -1,0 +1,13 @@
+{
+  "name": "Emily Calhoun",
+  "ssn": "090-69-3696",
+  "address": "1945 Griffin Mount Apt. 617, Clarkport, FM 36868",
+  "filing_status": "Single",
+  "gross_income": 124588.78,
+  "adjustments": 5568.35,
+  "taxable_income": 104420.43,
+  "tax": 12530.45,
+  "withholding": 14693.15,
+  "refund": 2162.699999999999,
+  "year": 2023
+}

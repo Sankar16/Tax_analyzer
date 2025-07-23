@@ -1,0 +1,13 @@
+{
+  "name": "Todd Stewart",
+  "ssn": "279-41-5820",
+  "address": "0948 Edwin Cliffs Apt. 134, Mariaborough, CO 42791",
+  "filing_status": "Single",
+  "gross_income": 76244.56,
+  "adjustments": 9103.69,
+  "taxable_income": 52540.869999999995,
+  "tax": 6304.9,
+  "withholding": 9610.03,
+  "refund": 3305.130000000001,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Daniel Smith",
+  "ssn": "009-37-5451",
+  "address": "79005 Thomas Junctions Apt. 608, Robinville, MI 47935",
+  "filing_status": "Single",
+  "gross_income": 123199.75,
+  "adjustments": 6985.9,
+  "taxable_income": 101613.85,
+  "tax": 12193.66,
+  "withholding": 20293.86,
+  "refund": 8100.200000000001,
+  "year": 2023
+}

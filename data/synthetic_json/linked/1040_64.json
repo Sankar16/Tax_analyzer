@@ -1,0 +1,13 @@
+{
+  "name": "Stefanie Leblanc",
+  "ssn": "770-60-9357",
+  "address": "60198 Tony Ranch Apt. 413, Pattersonberg, WA 33858",
+  "filing_status": "Single",
+  "gross_income": 110323.58,
+  "adjustments": 8988.01,
+  "taxable_income": 86735.57,
+  "tax": 10408.27,
+  "withholding": 16281.25,
+  "refund": 5872.98,
+  "year": 2023
+}

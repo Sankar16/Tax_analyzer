@@ -1,0 +1,13 @@
+{
+  "name": "Robert Powell",
+  "ssn": "296-99-9413",
+  "address": "683 Mitchell Plaza, New Kenneth, UT 19508",
+  "filing_status": "Single",
+  "gross_income": 47280.56,
+  "adjustments": 6822.41,
+  "taxable_income": 25858.149999999994,
+  "tax": 3102.98,
+  "withholding": 5295.22,
+  "refund": 2192.2400000000002,
+  "year": 2023
+}

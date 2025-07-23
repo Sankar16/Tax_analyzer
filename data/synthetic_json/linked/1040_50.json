@@ -1,0 +1,13 @@
+{
+  "name": "Michael Green",
+  "ssn": "100-09-2236",
+  "address": "007 Justin Coves, Joshuachester, OR 73205",
+  "filing_status": "Single",
+  "gross_income": 146969.94,
+  "adjustments": 6618.48,
+  "taxable_income": 125751.45999999999,
+  "tax": 15090.18,
+  "withholding": 25666.07,
+  "refund": 10575.89,
+  "year": 2023
+}

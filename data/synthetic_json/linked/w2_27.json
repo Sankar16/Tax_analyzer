@@ -1,0 +1,17 @@
+{
+  "name": "Jessica Craig",
+  "ssn": "066-60-3436",
+  "address": "7570 Douglas Island, Port Cherylbury, AK 88821",
+  "employer_name": "White Group",
+  "employer_ein": "74-6348196",
+  "employer_address": "7361 Kerry Forge Apt. 574, North Helenshire, SC 86794",
+  "wages": 70522.27,
+  "federal_tax": 10784.0,
+  "ss_wages": 70522.27,
+  "ss_tax": 4372.38,
+  "medicare_tax": 1022.57,
+  "state": "NV",
+  "state_wages": 66996.16,
+  "state_tax": 3349.81,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Kelly Carey",
+  "ssn": "281-39-8568",
+  "address": "201 Derek Plain, Andrewbury, AR 52433",
+  "employer_name": "Williams-Jones",
+  "employer_ein": "76-6692740",
+  "employer_address": "08370 Sarah Extension Suite 649, Masonmouth, CO 55156",
+  "wages": 70479.96,
+  "federal_tax": 11117.89,
+  "ss_wages": 70479.96,
+  "ss_tax": 4369.76,
+  "medicare_tax": 1021.96,
+  "state": "MT",
+  "state_wages": 66955.96,
+  "state_tax": 3347.8,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cindy Shaw",
+  "ssn": "355-71-1208",
+  "address": "1463 Wright Falls Apt. 953, North Madison, TN 10447",
+  "filing_status": "Single",
+  "gross_income": 74056.16,
+  "adjustments": 4151.85,
+  "taxable_income": 55304.31,
+  "tax": 6636.52,
+  "withholding": 9142.37,
+  "refund": 2505.8500000000004,
+  "year": 2023
+}

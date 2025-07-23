@@ -1,0 +1,17 @@
+{
+  "name": "Steven Cooper",
+  "ssn": "213-59-9674",
+  "address": "49326 Larson Drive Suite 606, Hoffmanchester, MH 79654",
+  "employer_name": "Hinton-Schmidt",
+  "employer_ein": "17-8797152",
+  "employer_address": "1291 Hart Plains, Lake Ronaldport, SD 26553",
+  "wages": 110858.78,
+  "federal_tax": 18010.99,
+  "ss_wages": 110858.78,
+  "ss_tax": 6873.24,
+  "medicare_tax": 1607.45,
+  "state": "KS",
+  "state_wages": 105315.84,
+  "state_tax": 5265.79,
+  "year": 2023
+}

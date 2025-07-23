@@ -1,0 +1,13 @@
+{
+  "name": "Katelyn Young",
+  "ssn": "648-15-1558",
+  "address": "38087 Jose Ranch, North Toddhaven, NY 12944",
+  "filing_status": "Single",
+  "gross_income": 103823.77,
+  "adjustments": 3082.47,
+  "taxable_income": 86141.3,
+  "tax": 10336.96,
+  "withholding": 13245.44,
+  "refund": 2908.4800000000014,
+  "year": 2023
+}

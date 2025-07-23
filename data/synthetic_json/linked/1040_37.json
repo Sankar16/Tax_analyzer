@@ -1,0 +1,13 @@
+{
+  "name": "John Stafford",
+  "ssn": "175-39-5257",
+  "address": "409 Lozano Route, Anthonymouth, IL 70283",
+  "filing_status": "Single",
+  "gross_income": 53450.99,
+  "adjustments": 5659.52,
+  "taxable_income": 33191.47,
+  "tax": 3982.98,
+  "withholding": 9958.19,
+  "refund": 5975.210000000001,
+  "year": 2023
+}

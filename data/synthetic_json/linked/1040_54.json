@@ -1,0 +1,13 @@
+{
+  "name": "Kevin Gill",
+  "ssn": "285-97-0412",
+  "address": "1129 Albert Groves Apt. 280, Lake David, AL 74934",
+  "filing_status": "Single",
+  "gross_income": 45020.65,
+  "adjustments": 9716.16,
+  "taxable_income": 20704.490000000005,
+  "tax": 2484.54,
+  "withholding": 8839.67,
+  "refund": 6355.13,
+  "year": 2023
+}

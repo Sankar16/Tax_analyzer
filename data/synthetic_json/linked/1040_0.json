@@ -1,0 +1,13 @@
+{
+  "name": "Lee Miller",
+  "ssn": "768-63-7722",
+  "address": "8744 Schmidt Mountains Suite 236, Pattersonborough, KY 58301",
+  "filing_status": "Single",
+  "gross_income": 41817.94,
+  "adjustments": 5661.48,
+  "taxable_income": 21556.460000000006,
+  "tax": 2586.78,
+  "withholding": 5698.63,
+  "refund": 3111.85,
+  "year": 2023
+}

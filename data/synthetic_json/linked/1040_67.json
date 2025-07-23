@@ -1,0 +1,13 @@
+{
+  "name": "Gabriel Smith",
+  "ssn": "645-71-8773",
+  "address": "570 Steven Drive Suite 437, West Rachelland, CO 90108",
+  "filing_status": "Single",
+  "gross_income": 123189.83,
+  "adjustments": 505.35,
+  "taxable_income": 108084.48,
+  "tax": 12970.14,
+  "withholding": 23711.37,
+  "refund": 10741.23,
+  "year": 2023
+}

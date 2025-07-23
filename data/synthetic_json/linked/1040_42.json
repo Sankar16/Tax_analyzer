@@ -1,0 +1,13 @@
+{
+  "name": "Steven Miller",
+  "ssn": "284-14-9024",
+  "address": "396 Karen Shoals Apt. 382, Christopherview, GU 75568",
+  "filing_status": "Single",
+  "gross_income": 88541.43,
+  "adjustments": 80.6,
+  "taxable_income": 73860.82999999999,
+  "tax": 8863.3,
+  "withholding": 8921.66,
+  "refund": 58.36000000000058,
+  "year": 2023
+}

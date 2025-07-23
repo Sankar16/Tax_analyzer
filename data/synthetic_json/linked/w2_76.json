@@ -1,0 +1,17 @@
+{
+  "name": "Jasmine Gardner",
+  "ssn": "549-58-8997",
+  "address": "0330 Matthew Light Suite 879, South Lauraville, CA 15005",
+  "employer_name": "Roberts Ltd",
+  "employer_ein": "46-5364356",
+  "employer_address": "6166 Thomas Bridge, West Brian, NJ 53178",
+  "wages": 52228.97,
+  "federal_tax": 8728.71,
+  "ss_wages": 52228.97,
+  "ss_tax": 3238.2,
+  "medicare_tax": 757.32,
+  "state": "CA",
+  "state_wages": 49617.52,
+  "state_tax": 2480.88,
+  "year": 2023
+}

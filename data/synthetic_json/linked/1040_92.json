@@ -1,0 +1,13 @@
+{
+  "name": "James Watts",
+  "ssn": "688-15-9757",
+  "address": "3669 Lisa Vista Apt. 745, Deanville, AL 59491",
+  "filing_status": "Single",
+  "gross_income": 82943.35,
+  "adjustments": 4216.69,
+  "taxable_income": 64126.66,
+  "tax": 7695.2,
+  "withholding": 14354.95,
+  "refund": 6659.750000000001,
+  "year": 2023
+}

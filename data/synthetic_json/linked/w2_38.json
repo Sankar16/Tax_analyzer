@@ -1,0 +1,17 @@
+{
+  "name": "Russell Dennis",
+  "ssn": "553-88-1722",
+  "address": "Unit 7135 Box 4928, DPO AE 80787",
+  "employer_name": "Trujillo, Mcclure and Pierce",
+  "employer_ein": "33-5180599",
+  "employer_address": "31893 Madeline Walk, Mariastad, MH 33713",
+  "wages": 119564.05,
+  "federal_tax": 22377.83,
+  "ss_wages": 119564.05,
+  "ss_tax": 7412.97,
+  "medicare_tax": 1733.68,
+  "state": "CA",
+  "state_wages": 113585.85,
+  "state_tax": 5679.29,
+  "year": 2023
+}

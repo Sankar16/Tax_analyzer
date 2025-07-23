@@ -1,0 +1,17 @@
+{
+  "name": "Kevin Gill",
+  "ssn": "285-97-0412",
+  "address": "1129 Albert Groves Apt. 280, Lake David, AL 74934",
+  "employer_name": "Larsen, Guzman and Duncan",
+  "employer_ein": "15-3036733",
+  "employer_address": "49899 Christopher Unions Apt. 737, West Charlesville, SD 71647",
+  "wages": 45020.65,
+  "federal_tax": 8839.67,
+  "ss_wages": 45020.65,
+  "ss_tax": 2791.28,
+  "medicare_tax": 652.8,
+  "state": "OR",
+  "state_wages": 42769.62,
+  "state_tax": 2138.48,
+  "year": 2023
+}

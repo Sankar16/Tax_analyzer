@@ -1,0 +1,17 @@
+{
+  "name": "Nicole Humphrey",
+  "ssn": "744-30-3547",
+  "address": "1934 Lauren Pike, Lake Jacquelineton, VI 09030",
+  "employer_name": "Scott Inc",
+  "employer_ein": "51-2296044",
+  "employer_address": "10107 Morrison Port Suite 335, Duncanburgh, NM 66888",
+  "wages": 40255.12,
+  "federal_tax": 4269.8,
+  "ss_wages": 40255.12,
+  "ss_tax": 2495.82,
+  "medicare_tax": 583.7,
+  "state": "OK",
+  "state_wages": 38242.36,
+  "state_tax": 1912.12,
+  "year": 2023
+}

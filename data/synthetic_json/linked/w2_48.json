@@ -1,0 +1,17 @@
+{
+  "name": "Colton Hodge",
+  "ssn": "429-68-4554",
+  "address": "957 Adrian Valleys, Buchananton, WV 17869",
+  "employer_name": "Pittman-Perkins",
+  "employer_ein": "56-8665073",
+  "employer_address": "0927 Morgan Mill, Ingramstad, PR 13347",
+  "wages": 144697.58,
+  "federal_tax": 25209.64,
+  "ss_wages": 144697.58,
+  "ss_tax": 8971.25,
+  "medicare_tax": 2098.11,
+  "state": "IL",
+  "state_wages": 137462.7,
+  "state_tax": 6873.14,
+  "year": 2023
+}

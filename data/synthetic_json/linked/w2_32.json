@@ -1,0 +1,17 @@
+{
+  "name": "Jonathan Brown",
+  "ssn": "465-37-8360",
+  "address": "Unit 2305 Box 5290, DPO AP 37958",
+  "employer_name": "Miller Inc",
+  "employer_ein": "17-2541275",
+  "employer_address": "38903 Diana Ridge, Margarethaven, TN 76931",
+  "wages": 134444.72,
+  "federal_tax": 24033.52,
+  "ss_wages": 134444.72,
+  "ss_tax": 8335.57,
+  "medicare_tax": 1949.45,
+  "state": "DC",
+  "state_wages": 127722.48,
+  "state_tax": 6386.12,
+  "year": 2023
+}

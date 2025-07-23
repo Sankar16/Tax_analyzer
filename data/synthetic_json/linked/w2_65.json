@@ -1,0 +1,17 @@
+{
+  "name": "Jo Gill",
+  "ssn": "353-75-0229",
+  "address": "1027 Miller Glens, South Erikashire, SD 50824",
+  "employer_name": "Richards, Young and Moore",
+  "employer_ein": "52-2287259",
+  "employer_address": "344 Reed Common Apt. 498, Lake Donaldburgh, PW 67356",
+  "wages": 84478.12,
+  "federal_tax": 8989.56,
+  "ss_wages": 84478.12,
+  "ss_tax": 5237.64,
+  "medicare_tax": 1224.93,
+  "state": "MD",
+  "state_wages": 80254.21,
+  "state_tax": 4012.71,
+  "year": 2023
+}

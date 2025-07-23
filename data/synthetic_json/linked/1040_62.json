@@ -1,0 +1,13 @@
+{
+  "name": "Debra Woods",
+  "ssn": "110-56-2634",
+  "address": "244 Jackson Hollow, East Lisashire, FM 40055",
+  "filing_status": "Single",
+  "gross_income": 94308.26,
+  "adjustments": 6832.12,
+  "taxable_income": 72876.14,
+  "tax": 8745.14,
+  "withholding": 13796.88,
+  "refund": 5051.74,
+  "year": 2023
+}

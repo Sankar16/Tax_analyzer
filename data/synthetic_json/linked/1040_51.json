@@ -1,0 +1,13 @@
+{
+  "name": "Chad Sanders",
+  "ssn": "535-20-7761",
+  "address": "54036 Anne Stream Apt. 501, Sarahport, IL 35643",
+  "filing_status": "Single",
+  "gross_income": 60019.96,
+  "adjustments": 2867.2,
+  "taxable_income": 42552.76,
+  "tax": 5106.33,
+  "withholding": 10427.63,
+  "refund": 5321.299999999999,
+  "year": 2023
+}

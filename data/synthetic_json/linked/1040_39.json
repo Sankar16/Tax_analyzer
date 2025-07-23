@@ -1,0 +1,13 @@
+{
+  "name": "Teresa Arellano",
+  "ssn": "667-24-2608",
+  "address": "13518 Michael Harbors Suite 123, North James, IL 55173",
+  "filing_status": "Single",
+  "gross_income": 120029.76,
+  "adjustments": 7267.7,
+  "taxable_income": 98162.06,
+  "tax": 11779.45,
+  "withholding": 18827.26,
+  "refund": 7047.809999999998,
+  "year": 2023
+}

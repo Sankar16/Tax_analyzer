@@ -1,0 +1,13 @@
+{
+  "name": "Crystal Clayton",
+  "ssn": "540-40-3752",
+  "address": "454 Bailey Highway Apt. 351, Shawnfort, GA 39472",
+  "filing_status": "Single",
+  "gross_income": 58930.25,
+  "adjustments": 2758.54,
+  "taxable_income": 41571.71,
+  "tax": 4988.61,
+  "withholding": 8476.64,
+  "refund": 3488.0299999999997,
+  "year": 2023
+}

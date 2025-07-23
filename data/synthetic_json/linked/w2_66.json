@@ -1,0 +1,17 @@
+{
+  "name": "Gregory Moody",
+  "ssn": "753-56-6970",
+  "address": "63892 Cain Gardens, Williamsside, CT 45432",
+  "employer_name": "Brown, Gilmore and Watkins",
+  "employer_ein": "60-1517639",
+  "employer_address": "2572 Haynes Shoal Suite 288, Mackenziefurt, MT 97032",
+  "wages": 46508.4,
+  "federal_tax": 7581.68,
+  "ss_wages": 46508.4,
+  "ss_tax": 2883.52,
+  "medicare_tax": 674.37,
+  "state": "KY",
+  "state_wages": 44182.98,
+  "state_tax": 2209.15,
+  "year": 2023
+}

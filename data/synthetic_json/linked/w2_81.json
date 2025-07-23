@@ -1,0 +1,17 @@
+{
+  "name": "Jennifer Humphrey",
+  "ssn": "204-74-4706",
+  "address": "348 Joseph Mission, New Ellenville, MI 44088",
+  "employer_name": "Acosta-Schwartz",
+  "employer_ein": "58-1313795",
+  "employer_address": "PSC 7791, Box 4411, APO AE 18119",
+  "wages": 42953.4,
+  "federal_tax": 5101.14,
+  "ss_wages": 42953.4,
+  "ss_tax": 2663.11,
+  "medicare_tax": 622.82,
+  "state": "AS",
+  "state_wages": 40805.73,
+  "state_tax": 2040.29,
+  "year": 2023
+}

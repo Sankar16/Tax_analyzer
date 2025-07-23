@@ -1,0 +1,17 @@
+{
+  "name": "Daniel Quinn",
+  "ssn": "236-36-5942",
+  "address": "9502 Brian Tunnel, West Karen, HI 87541",
+  "employer_name": "Santana LLC",
+  "employer_ein": "80-7003426",
+  "employer_address": "738 John Locks Suite 436, Hubbardmouth, IL 70145",
+  "wages": 94418.0,
+  "federal_tax": 16667.35,
+  "ss_wages": 94418.0,
+  "ss_tax": 5853.92,
+  "medicare_tax": 1369.06,
+  "state": "IL",
+  "state_wages": 89697.1,
+  "state_tax": 4484.86,
+  "year": 2023
+}

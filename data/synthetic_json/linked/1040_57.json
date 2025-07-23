@@ -1,0 +1,13 @@
+{
+  "name": "Julie Washington",
+  "ssn": "596-24-7268",
+  "address": "344 Allison Station, Port Raymond, WV 14690",
+  "filing_status": "Single",
+  "gross_income": 84823.9,
+  "adjustments": 5533.56,
+  "taxable_income": 64690.34,
+  "tax": 7762.84,
+  "withholding": 10181.19,
+  "refund": 2418.3500000000004,
+  "year": 2023
+}

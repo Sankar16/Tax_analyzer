@@ -1,0 +1,13 @@
+{
+  "name": "Sherry Johnson DDS",
+  "ssn": "111-30-7510",
+  "address": "4555 Rebecca Roads Apt. 987, Goodmanfort, WI 83682",
+  "filing_status": "Single",
+  "gross_income": 138089.42,
+  "adjustments": 6224.0,
+  "taxable_income": 117265.42000000001,
+  "tax": 14071.85,
+  "withholding": 27545.32,
+  "refund": 13473.47,
+  "year": 2023
+}

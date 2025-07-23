@@ -1,0 +1,13 @@
+{
+  "name": "Craig Warren",
+  "ssn": "891-79-5171",
+  "address": "194 White Mountains Suite 674, Hansentown, MA 62245",
+  "filing_status": "Single",
+  "gross_income": 117186.28,
+  "adjustments": 7769.34,
+  "taxable_income": 94816.94,
+  "tax": 11378.03,
+  "withholding": 20095.26,
+  "refund": 8717.229999999998,
+  "year": 2023
+}

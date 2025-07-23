@@ -1,0 +1,17 @@
+{
+  "name": "Robert Powell",
+  "ssn": "296-99-9413",
+  "address": "683 Mitchell Plaza, New Kenneth, UT 19508",
+  "employer_name": "Haas-Herrera",
+  "employer_ein": "27-5243980",
+  "employer_address": "Unit 2801 Box 9752, DPO AA 37546",
+  "wages": 47280.56,
+  "federal_tax": 5295.22,
+  "ss_wages": 47280.56,
+  "ss_tax": 2931.39,
+  "medicare_tax": 685.57,
+  "state": "GA",
+  "state_wages": 44916.53,
+  "state_tax": 2245.83,
+  "year": 2023
+}

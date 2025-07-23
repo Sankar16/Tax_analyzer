@@ -1,0 +1,17 @@
+{
+  "name": "Barbara Hart",
+  "ssn": "386-81-6126",
+  "address": "18494 Ward Route, South Christinaland, MA 81676",
+  "employer_name": "Gonzalez-Rangel",
+  "employer_ein": "79-2728197",
+  "employer_address": "5546 Cisneros Summit, Johnberg, GU 98302",
+  "wages": 51696.51,
+  "federal_tax": 9354.61,
+  "ss_wages": 51696.51,
+  "ss_tax": 3205.18,
+  "medicare_tax": 749.6,
+  "state": "RI",
+  "state_wages": 49111.68,
+  "state_tax": 2455.58,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Jennifer Singh",
+  "ssn": "258-94-4767",
+  "address": "8566 Ronald Vista Suite 345, North Douglas, FM 49484",
+  "employer_name": "Lester-Curtis",
+  "employer_ein": "69-5190307",
+  "employer_address": "4837 Padilla View, West Heatherfort, MD 40729",
+  "wages": 65763.84,
+  "federal_tax": 10558.4,
+  "ss_wages": 65763.84,
+  "ss_tax": 4077.36,
+  "medicare_tax": 953.58,
+  "state": "TN",
+  "state_wages": 62475.65,
+  "state_tax": 3123.78,
+  "year": 2023
+}

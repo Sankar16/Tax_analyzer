@@ -1,0 +1,17 @@
+{
+  "name": "Jennifer Thompson",
+  "ssn": "197-44-5333",
+  "address": "5513 Jeffery Via Suite 521, West Kelly, ND 62750",
+  "employer_name": "Sanders-Jackson",
+  "employer_ein": "47-6555004",
+  "employer_address": "786 Kimberly Meadow, Marshallmouth, NC 34174",
+  "wages": 85344.6,
+  "federal_tax": 11129.57,
+  "ss_wages": 85344.6,
+  "ss_tax": 5291.37,
+  "medicare_tax": 1237.5,
+  "state": "TN",
+  "state_wages": 81077.37,
+  "state_tax": 4053.87,
+  "year": 2023
+}

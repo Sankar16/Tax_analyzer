@@ -1,0 +1,17 @@
+{
+  "name": "Kyle Lane",
+  "ssn": "100-09-9269",
+  "address": "2581 Mccann Locks, Allisonview, NY 72464",
+  "employer_name": "Fowler, Rivas and Campbell",
+  "employer_ein": "64-7541030",
+  "employer_address": "18306 Murphy Roads Apt. 353, Aaronberg, ME 39081",
+  "wages": 57953.68,
+  "federal_tax": 9902.88,
+  "ss_wages": 57953.68,
+  "ss_tax": 3593.13,
+  "medicare_tax": 840.33,
+  "state": "HI",
+  "state_wages": 55056.0,
+  "state_tax": 2752.8,
+  "year": 2023
+}

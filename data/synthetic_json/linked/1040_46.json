@@ -1,0 +1,13 @@
+{
+  "name": "Ryan Bennett",
+  "ssn": "290-14-7322",
+  "address": "031 Lawson Stravenue, North John, HI 57690",
+  "filing_status": "Single",
+  "gross_income": 121736.69,
+  "adjustments": 643.44,
+  "taxable_income": 106493.25,
+  "tax": 12779.19,
+  "withholding": 13968.6,
+  "refund": 1189.4099999999999,
+  "year": 2023
+}

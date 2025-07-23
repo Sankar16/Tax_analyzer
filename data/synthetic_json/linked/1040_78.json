@@ -1,0 +1,13 @@
+{
+  "name": "Jennifer Thompson",
+  "ssn": "197-44-5333",
+  "address": "5513 Jeffery Via Suite 521, West Kelly, ND 62750",
+  "filing_status": "Single",
+  "gross_income": 85344.6,
+  "adjustments": 1875.39,
+  "taxable_income": 68869.21,
+  "tax": 8264.31,
+  "withholding": 11129.57,
+  "refund": 2865.26,
+  "year": 2023
+}

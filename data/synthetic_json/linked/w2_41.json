@@ -1,0 +1,17 @@
+{
+  "name": "Amanda Williams",
+  "ssn": "595-08-7222",
+  "address": "5457 Hunter Key Suite 010, Vancestad, KY 94487",
+  "employer_name": "Carroll Group",
+  "employer_ein": "54-7956514",
+  "employer_address": "946 Turner Roads Suite 506, Christopherchester, FL 94290",
+  "wages": 48263.47,
+  "federal_tax": 9410.74,
+  "ss_wages": 48263.47,
+  "ss_tax": 2992.34,
+  "medicare_tax": 699.82,
+  "state": "MH",
+  "state_wages": 45850.3,
+  "state_tax": 2292.52,
+  "year": 2023
+}

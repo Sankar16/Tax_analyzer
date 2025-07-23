@@ -1,0 +1,17 @@
+{
+  "name": "Cindy Shaw",
+  "ssn": "355-71-1208",
+  "address": "1463 Wright Falls Apt. 953, North Madison, TN 10447",
+  "employer_name": "Meyer and Sons",
+  "employer_ein": "12-8389697",
+  "employer_address": "PSC 6162, Box 9468, APO AA 98007",
+  "wages": 74056.16,
+  "federal_tax": 9142.37,
+  "ss_wages": 74056.16,
+  "ss_tax": 4591.48,
+  "medicare_tax": 1073.81,
+  "state": "FM",
+  "state_wages": 70353.35,
+  "state_tax": 3517.67,
+  "year": 2023
+}

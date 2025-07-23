@@ -1,0 +1,13 @@
+{
+  "name": "Raymond Olson",
+  "ssn": "362-88-4161",
+  "address": "4468 Wong Hills, Port Brandon, ID 16541",
+  "filing_status": "Single",
+  "gross_income": 116980.89,
+  "adjustments": 1248.37,
+  "taxable_income": 101132.52,
+  "tax": 12135.9,
+  "withholding": 19051.88,
+  "refund": 6915.980000000001,
+  "year": 2023
+}

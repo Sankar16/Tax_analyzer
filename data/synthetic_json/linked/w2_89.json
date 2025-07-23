@@ -1,0 +1,17 @@
+{
+  "name": "Heather Warren",
+  "ssn": "356-68-3583",
+  "address": "0316 Dana Square, Hebertfort, VA 85486",
+  "employer_name": "Ray-Wilson",
+  "employer_ein": "43-3081203",
+  "employer_address": "03696 Leonard Camp, Simpsonshire, MT 23416",
+  "wages": 48228.84,
+  "federal_tax": 8944.43,
+  "ss_wages": 48228.84,
+  "ss_tax": 2990.19,
+  "medicare_tax": 699.32,
+  "state": "IN",
+  "state_wages": 45817.4,
+  "state_tax": 2290.87,
+  "year": 2023
+}

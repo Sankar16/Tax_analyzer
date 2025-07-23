@@ -1,0 +1,17 @@
+{
+  "name": "Crystal Clayton",
+  "ssn": "540-40-3752",
+  "address": "454 Bailey Highway Apt. 351, Shawnfort, GA 39472",
+  "employer_name": "Johns Ltd",
+  "employer_ein": "66-4047531",
+  "employer_address": "34689 Casey Springs, West Deborah, ND 64775",
+  "wages": 58930.25,
+  "federal_tax": 8476.64,
+  "ss_wages": 58930.25,
+  "ss_tax": 3653.68,
+  "medicare_tax": 854.49,
+  "state": "OH",
+  "state_wages": 55983.74,
+  "state_tax": 2799.19,
+  "year": 2023
+}

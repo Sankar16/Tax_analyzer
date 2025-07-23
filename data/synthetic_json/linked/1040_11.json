@@ -1,0 +1,13 @@
+{
+  "name": "Amber Smith",
+  "ssn": "605-81-0680",
+  "address": "58452 James Keys, West Karen, WA 20768",
+  "filing_status": "Single",
+  "gross_income": 113847.95,
+  "adjustments": 4609.54,
+  "taxable_income": 94638.41,
+  "tax": 11356.61,
+  "withholding": 16587.21,
+  "refund": 5230.5999999999985,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Joseph Jones",
+  "ssn": "650-20-4859",
+  "address": "630 Garza Knolls Apt. 899, Lake Mary, TN 63609",
+  "filing_status": "Single",
+  "gross_income": 125621.0,
+  "adjustments": 8376.37,
+  "taxable_income": 102644.63,
+  "tax": 12317.36,
+  "withholding": 18851.67,
+  "refund": 6534.309999999998,
+  "year": 2023
+}

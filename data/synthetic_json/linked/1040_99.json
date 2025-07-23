@@ -1,0 +1,13 @@
+{
+  "name": "Margaret Contreras",
+  "ssn": "133-89-9609",
+  "address": "7309 Linda Burgs Apt. 819, West Hollytown, MN 14332",
+  "filing_status": "Single",
+  "gross_income": 76540.24,
+  "adjustments": 3386.44,
+  "taxable_income": 58553.8,
+  "tax": 7026.46,
+  "withholding": 14284.24,
+  "refund": 7257.78,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bryan Anderson",
+  "ssn": "647-39-6698",
+  "address": "355 Smith Course Apt. 970, West Michelleburgh, UT 08911",
+  "employer_name": "Martinez, Ford and Harrison",
+  "employer_ein": "68-1509588",
+  "employer_address": "81132 Jones Valleys Apt. 503, Wrightstad, NY 14903",
+  "wages": 139976.3,
+  "federal_tax": 20902.78,
+  "ss_wages": 139976.3,
+  "ss_tax": 8678.53,
+  "medicare_tax": 2029.66,
+  "state": "TX",
+  "state_wages": 132977.48,
+  "state_tax": 6648.87,
+  "year": 2023
+}

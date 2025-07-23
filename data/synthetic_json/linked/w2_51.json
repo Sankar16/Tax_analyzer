@@ -1,0 +1,17 @@
+{
+  "name": "Chad Sanders",
+  "ssn": "535-20-7761",
+  "address": "54036 Anne Stream Apt. 501, Sarahport, IL 35643",
+  "employer_name": "Clark LLC",
+  "employer_ein": "30-1116014",
+  "employer_address": "63458 Beth Land, West Abigail, AS 78856",
+  "wages": 60019.96,
+  "federal_tax": 10427.63,
+  "ss_wages": 60019.96,
+  "ss_tax": 3721.24,
+  "medicare_tax": 870.29,
+  "state": "AS",
+  "state_wages": 57018.96,
+  "state_tax": 2850.95,
+  "year": 2023
+}

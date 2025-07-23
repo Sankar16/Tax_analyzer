@@ -1,0 +1,17 @@
+{
+  "name": "Deanna Mays",
+  "ssn": "829-53-5344",
+  "address": "USNV James, FPO AA 58014",
+  "employer_name": "Miller-Weaver",
+  "employer_ein": "20-3378324",
+  "employer_address": "037 Cunningham Oval Apt. 841, Klinechester, AL 35579",
+  "wages": 146443.84,
+  "federal_tax": 18114.38,
+  "ss_wages": 146443.84,
+  "ss_tax": 9079.52,
+  "medicare_tax": 2123.44,
+  "state": "NJ",
+  "state_wages": 139121.65,
+  "state_tax": 6956.08,
+  "year": 2023
+}

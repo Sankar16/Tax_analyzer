@@ -1,0 +1,17 @@
+{
+  "name": "Daniel Smith",
+  "ssn": "009-37-5451",
+  "address": "79005 Thomas Junctions Apt. 608, Robinville, MI 47935",
+  "employer_name": "Joseph and Sons",
+  "employer_ein": "98-1443278",
+  "employer_address": "1777 Figueroa Loaf, Brianside, WV 97780",
+  "wages": 123199.75,
+  "federal_tax": 20293.86,
+  "ss_wages": 123199.75,
+  "ss_tax": 7638.38,
+  "medicare_tax": 1786.4,
+  "state": "UT",
+  "state_wages": 117039.76,
+  "state_tax": 5851.99,
+  "year": 2023
+}

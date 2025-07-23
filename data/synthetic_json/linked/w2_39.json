@@ -1,0 +1,17 @@
+{
+  "name": "Teresa Arellano",
+  "ssn": "667-24-2608",
+  "address": "13518 Michael Harbors Suite 123, North James, IL 55173",
+  "employer_name": "Kim, Jackson and Mckinney",
+  "employer_ein": "78-3509144",
+  "employer_address": "09298 Moore Locks Apt. 655, Daniellebury, ME 71242",
+  "wages": 120029.76,
+  "federal_tax": 18827.26,
+  "ss_wages": 120029.76,
+  "ss_tax": 7441.85,
+  "medicare_tax": 1740.43,
+  "state": "AZ",
+  "state_wages": 114028.27,
+  "state_tax": 5701.41,
+  "year": 2023
+}

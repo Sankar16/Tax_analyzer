@@ -1,0 +1,13 @@
+{
+  "name": "Kelly Green",
+  "ssn": "052-26-7526",
+  "address": "817 Flynn Springs Apt. 620, South Jared, PW 66656",
+  "filing_status": "Single",
+  "gross_income": 69236.66,
+  "adjustments": 7913.29,
+  "taxable_income": 46723.37,
+  "tax": 5606.8,
+  "withholding": 13314.87,
+  "refund": 7708.070000000001,
+  "year": 2023
+}

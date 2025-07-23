@@ -1,0 +1,13 @@
+{
+  "name": "Leah Bennett",
+  "ssn": "709-90-5318",
+  "address": "73952 Huff Oval, Port Donnamouth, GU 57372",
+  "filing_status": "Single",
+  "gross_income": 81574.24,
+  "adjustments": 6020.3,
+  "taxable_income": 60953.94,
+  "tax": 7314.47,
+  "withholding": 13451.35,
+  "refund": 6136.88,
+  "year": 2023
+}

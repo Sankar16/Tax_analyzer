@@ -1,0 +1,17 @@
+{
+  "name": "Julie Olsen",
+  "ssn": "319-55-4368",
+  "address": "516 Joseph Manors, Port Michaelview, AS 81857",
+  "employer_name": "Byrd-Blake",
+  "employer_ein": "27-1410420",
+  "employer_address": "42555 Joseph Divide Suite 654, Johnsonshire, DC 57564",
+  "wages": 44779.62,
+  "federal_tax": 5094.5,
+  "ss_wages": 44779.62,
+  "ss_tax": 2776.34,
+  "medicare_tax": 649.3,
+  "state": "DC",
+  "state_wages": 42540.64,
+  "state_tax": 2127.03,
+  "year": 2023
+}

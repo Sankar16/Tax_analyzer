@@ -1,0 +1,17 @@
+{
+  "name": "Jean Mathis",
+  "ssn": "794-91-2169",
+  "address": "129 Catherine Squares Apt. 082, New Malik, FL 49725",
+  "employer_name": "Dyer Inc",
+  "employer_ein": "98-5095480",
+  "employer_address": "61407 Osborne Rapids, Port Kyle, DC 69449",
+  "wages": 50933.78,
+  "federal_tax": 6925.65,
+  "ss_wages": 50933.78,
+  "ss_tax": 3157.89,
+  "medicare_tax": 738.54,
+  "state": "TN",
+  "state_wages": 48387.09,
+  "state_tax": 2419.35,
+  "year": 2023
+}

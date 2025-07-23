@@ -1,0 +1,13 @@
+{
+  "name": "Brittany Brown",
+  "ssn": "491-18-2047",
+  "address": "3450 Palmer Expressway Suite 587, North Frankbury, AR 25561",
+  "filing_status": "Single",
+  "gross_income": 83593.63,
+  "adjustments": 3446.69,
+  "taxable_income": 65546.94,
+  "tax": 7865.63,
+  "withholding": 11001.33,
+  "refund": 3135.7,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Julie Olsen",
+  "ssn": "319-55-4368",
+  "address": "516 Joseph Manors, Port Michaelview, AS 81857",
+  "filing_status": "Single",
+  "gross_income": 44779.62,
+  "adjustments": 7961.37,
+  "taxable_income": 22218.25,
+  "tax": 2666.19,
+  "withholding": 5094.5,
+  "refund": 2428.31,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ryan Bennett",
+  "ssn": "290-14-7322",
+  "address": "031 Lawson Stravenue, North John, HI 57690",
+  "employer_name": "Schroeder, Salazar and Dyer",
+  "employer_ein": "54-2086311",
+  "employer_address": "45660 Marsh Falls, Smithbury, AS 12722",
+  "wages": 121736.69,
+  "federal_tax": 13968.6,
+  "ss_wages": 121736.69,
+  "ss_tax": 7547.67,
+  "medicare_tax": 1765.18,
+  "state": "MO",
+  "state_wages": 115649.86,
+  "state_tax": 5782.49,
+  "year": 2023
+}

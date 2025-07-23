@@ -1,0 +1,13 @@
+{
+  "name": "Patricia Munoz",
+  "ssn": "462-01-0863",
+  "address": "6485 Jessica Dale Apt. 023, South Paul, AS 31223",
+  "filing_status": "Single",
+  "gross_income": 43871.89,
+  "adjustments": 574.26,
+  "taxable_income": 28697.629999999997,
+  "tax": 3443.72,
+  "withholding": 5634.2,
+  "refund": 2190.48,
+  "year": 2023
+}

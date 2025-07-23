@@ -1,0 +1,13 @@
+{
+  "name": "Daniel Quinn",
+  "ssn": "236-36-5942",
+  "address": "9502 Brian Tunnel, West Karen, HI 87541",
+  "filing_status": "Single",
+  "gross_income": 94418.0,
+  "adjustments": 6292.21,
+  "taxable_income": 73525.79,
+  "tax": 8823.09,
+  "withholding": 16667.35,
+  "refund": 7844.259999999998,
+  "year": 2023
+}

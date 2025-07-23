@@ -1,0 +1,13 @@
+{
+  "name": "William Lynch",
+  "ssn": "555-92-0935",
+  "address": "PSC 4095, Box 8010, APO AA 02036",
+  "filing_status": "Single",
+  "gross_income": 52627.15,
+  "adjustments": 6092.43,
+  "taxable_income": 31934.72,
+  "tax": 3832.17,
+  "withholding": 7384.11,
+  "refund": 3551.9399999999996,
+  "year": 2023
+}

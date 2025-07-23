@@ -1,0 +1,13 @@
+{
+  "name": "Emily Atkins",
+  "ssn": "620-92-8145",
+  "address": "835 Singleton Rapid Suite 829, Port April, ND 16297",
+  "filing_status": "Single",
+  "gross_income": 47390.83,
+  "adjustments": 4867.85,
+  "taxable_income": 27922.980000000003,
+  "tax": 3350.76,
+  "withholding": 7392.33,
+  "refund": 4041.5699999999997,
+  "year": 2023
+}

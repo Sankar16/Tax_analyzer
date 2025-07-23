@@ -1,0 +1,17 @@
+{
+  "name": "Michael Green",
+  "ssn": "100-09-2236",
+  "address": "007 Justin Coves, Joshuachester, OR 73205",
+  "employer_name": "Brown PLC",
+  "employer_ein": "33-9158362",
+  "employer_address": "611 Ryan Valleys Apt. 650, Cervantesberg, FM 43804",
+  "wages": 146969.94,
+  "federal_tax": 25666.07,
+  "ss_wages": 146969.94,
+  "ss_tax": 9112.14,
+  "medicare_tax": 2131.06,
+  "state": "OH",
+  "state_wages": 139621.44,
+  "state_tax": 6981.07,
+  "year": 2023
+}

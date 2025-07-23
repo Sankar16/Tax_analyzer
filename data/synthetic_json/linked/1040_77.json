@@ -1,0 +1,13 @@
+{
+  "name": "Jessica Harris",
+  "ssn": "518-80-5497",
+  "address": "514 Harry Ridge, Port Tinaport, AR 52292",
+  "filing_status": "Single",
+  "gross_income": 100466.02,
+  "adjustments": 7320.57,
+  "taxable_income": 78545.45000000001,
+  "tax": 9425.45,
+  "withholding": 15648.43,
+  "refund": 6222.98,
+  "year": 2023
+}

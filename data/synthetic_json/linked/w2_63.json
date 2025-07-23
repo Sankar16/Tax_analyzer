@@ -1,0 +1,17 @@
+{
+  "name": "Lisa Edwards",
+  "ssn": "095-14-4441",
+  "address": "781 Jacob Views, Daleberg, MD 53027",
+  "employer_name": "Greene-Walker",
+  "employer_ein": "32-3617688",
+  "employer_address": "96861 Lauren Stravenue Suite 829, South Kennethborough, IL 83689",
+  "wages": 49536.47,
+  "federal_tax": 6868.95,
+  "ss_wages": 49536.47,
+  "ss_tax": 3071.26,
+  "medicare_tax": 718.28,
+  "state": "PA",
+  "state_wages": 47059.65,
+  "state_tax": 2352.98,
+  "year": 2023
+}

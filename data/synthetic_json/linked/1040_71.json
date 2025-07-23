@@ -1,0 +1,13 @@
+{
+  "name": "Jean Mathis",
+  "ssn": "794-91-2169",
+  "address": "129 Catherine Squares Apt. 082, New Malik, FL 49725",
+  "filing_status": "Single",
+  "gross_income": 50933.78,
+  "adjustments": 4359.37,
+  "taxable_income": 31974.409999999996,
+  "tax": 3836.93,
+  "withholding": 6925.65,
+  "refund": 3088.72,
+  "year": 2023
+}

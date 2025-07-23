@@ -1,0 +1,13 @@
+{
+  "name": "Ralph Spencer",
+  "ssn": "614-75-8233",
+  "address": "951 Morris Union, Riveraborough, SD 92593",
+  "filing_status": "Single",
+  "gross_income": 143755.83,
+  "adjustments": 6613.46,
+  "taxable_income": 122542.37,
+  "tax": 14705.08,
+  "withholding": 28394.31,
+  "refund": 13689.230000000001,
+  "year": 2023
+}

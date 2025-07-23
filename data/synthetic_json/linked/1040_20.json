@@ -1,0 +1,13 @@
+{
+  "name": "Kyle Lane",
+  "ssn": "100-09-9269",
+  "address": "2581 Mccann Locks, Allisonview, NY 72464",
+  "filing_status": "Single",
+  "gross_income": 57953.68,
+  "adjustments": 9546.27,
+  "taxable_income": 33807.41,
+  "tax": 4056.89,
+  "withholding": 9902.88,
+  "refund": 5845.99,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Amber Smith",
+  "ssn": "605-81-0680",
+  "address": "58452 James Keys, West Karen, WA 20768",
+  "employer_name": "Randall-Jackson",
+  "employer_ein": "60-2511029",
+  "employer_address": "Unit 2438 Box 2549, DPO AA 73158",
+  "wages": 113847.95,
+  "federal_tax": 16587.21,
+  "ss_wages": 113847.95,
+  "ss_tax": 7058.57,
+  "medicare_tax": 1650.8,
+  "state": "WI",
+  "state_wages": 108155.55,
+  "state_tax": 5407.78,
+  "year": 2023
+}

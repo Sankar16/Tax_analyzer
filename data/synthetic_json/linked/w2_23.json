@@ -1,0 +1,17 @@
+{
+  "name": "Emily Atkins",
+  "ssn": "620-92-8145",
+  "address": "835 Singleton Rapid Suite 829, Port April, ND 16297",
+  "employer_name": "Reynolds, Murray and Deleon",
+  "employer_ein": "29-2460730",
+  "employer_address": "PSC 5960, Box 5586, APO AA 12548",
+  "wages": 47390.83,
+  "federal_tax": 7392.33,
+  "ss_wages": 47390.83,
+  "ss_tax": 2938.23,
+  "medicare_tax": 687.17,
+  "state": "AR",
+  "state_wages": 45021.29,
+  "state_tax": 2251.06,
+  "year": 2023
+}

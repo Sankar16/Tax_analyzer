@@ -1,0 +1,13 @@
+{
+  "name": "Eric Simpson",
+  "ssn": "646-05-5117",
+  "address": "Unit 3150 Box 1902, DPO AP 04044",
+  "filing_status": "Single",
+  "gross_income": 144082.59,
+  "adjustments": 771.38,
+  "taxable_income": 128711.20999999999,
+  "tax": 15445.35,
+  "withholding": 22501.99,
+  "refund": 7056.640000000001,
+  "year": 2023
+}

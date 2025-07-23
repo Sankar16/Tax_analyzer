@@ -1,0 +1,13 @@
+{
+  "name": "Tanner Butler",
+  "ssn": "317-72-8911",
+  "address": "20851 Turner Tunnel Suite 916, North Miguel, DE 21484",
+  "filing_status": "Single",
+  "gross_income": 61111.43,
+  "adjustments": 9924.76,
+  "taxable_income": 36586.67,
+  "tax": 4390.4,
+  "withholding": 9549.76,
+  "refund": 5159.360000000001,
+  "year": 2023
+}

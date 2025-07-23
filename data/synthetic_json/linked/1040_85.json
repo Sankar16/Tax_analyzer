@@ -1,0 +1,13 @@
+{
+  "name": "Daniel Cortez",
+  "ssn": "004-33-8239",
+  "address": "PSC 9776, Box 8750, APO AA 12685",
+  "filing_status": "Single",
+  "gross_income": 128457.21,
+  "adjustments": 4058.98,
+  "taxable_income": 109798.23000000001,
+  "tax": 13175.79,
+  "withholding": 25128.6,
+  "refund": 11952.809999999998,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Heidi Lucas",
+  "ssn": "533-59-3594",
+  "address": "USS Miller, FPO AE 85537",
+  "employer_name": "Oliver-Gilbert",
+  "employer_ein": "98-5270442",
+  "employer_address": "4007 James Islands Apt. 732, New Bryanfurt, MN 79969",
+  "wages": 126284.01,
+  "federal_tax": 15586.17,
+  "ss_wages": 126284.01,
+  "ss_tax": 7829.61,
+  "medicare_tax": 1831.12,
+  "state": "NH",
+  "state_wages": 119969.81,
+  "state_tax": 5998.49,
+  "year": 2023
+}

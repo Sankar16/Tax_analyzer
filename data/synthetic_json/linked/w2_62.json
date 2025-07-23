@@ -1,0 +1,17 @@
+{
+  "name": "Debra Woods",
+  "ssn": "110-56-2634",
+  "address": "244 Jackson Hollow, East Lisashire, FM 40055",
+  "employer_name": "Barnes LLC",
+  "employer_ein": "88-3792366",
+  "employer_address": "521 Hines Club Apt. 869, West Jonathanchester, NE 21747",
+  "wages": 94308.26,
+  "federal_tax": 13796.88,
+  "ss_wages": 94308.26,
+  "ss_tax": 5847.11,
+  "medicare_tax": 1367.47,
+  "state": "FL",
+  "state_wages": 89592.85,
+  "state_tax": 4479.64,
+  "year": 2023
+}

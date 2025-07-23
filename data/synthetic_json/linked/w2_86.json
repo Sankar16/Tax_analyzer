@@ -1,0 +1,17 @@
+{
+  "name": "Brittany Brown",
+  "ssn": "491-18-2047",
+  "address": "3450 Palmer Expressway Suite 587, North Frankbury, AR 25561",
+  "employer_name": "Poole, Sawyer and Green",
+  "employer_ein": "94-6812918",
+  "employer_address": "3508 Keith Crossroad, Lake Erikabury, ME 59351",
+  "wages": 83593.63,
+  "federal_tax": 11001.33,
+  "ss_wages": 83593.63,
+  "ss_tax": 5182.81,
+  "medicare_tax": 1212.11,
+  "state": "NH",
+  "state_wages": 79413.95,
+  "state_tax": 3970.7,
+  "year": 2023
+}

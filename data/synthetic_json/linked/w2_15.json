@@ -1,0 +1,17 @@
+{
+  "name": "Jennifer Randall",
+  "ssn": "795-80-1154",
+  "address": "9616 Katrina Islands Suite 117, Lake Benjamin, MI 79945",
+  "employer_name": "Adams, Jackson and Harrell",
+  "employer_ein": "36-9763030",
+  "employer_address": "973 Ellis Brooks Apt. 766, East Stacyshire, WA 95458",
+  "wages": 144997.53,
+  "federal_tax": 16821.42,
+  "ss_wages": 144997.53,
+  "ss_tax": 8989.85,
+  "medicare_tax": 2102.46,
+  "state": "NM",
+  "state_wages": 137747.65,
+  "state_tax": 6887.38,
+  "year": 2023
+}

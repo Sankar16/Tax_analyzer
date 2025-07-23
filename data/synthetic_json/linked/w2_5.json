@@ -1,0 +1,17 @@
+{
+  "name": "Calvin Bradshaw",
+  "ssn": "034-09-0440",
+  "address": "179 Rivera Park, Wilkersonview, PW 76756",
+  "employer_name": "Horton, Kennedy and Berry",
+  "employer_ein": "25-9927373",
+  "employer_address": "0686 Melton Dale, Mejiaside, MN 81026",
+  "wages": 65495.72,
+  "federal_tax": 9410.58,
+  "ss_wages": 65495.72,
+  "ss_tax": 4060.73,
+  "medicare_tax": 949.69,
+  "state": "LA",
+  "state_wages": 62220.93,
+  "state_tax": 3111.05,
+  "year": 2023
+}

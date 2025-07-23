@@ -1,0 +1,17 @@
+{
+  "name": "Zachary Waters",
+  "ssn": "853-60-2808",
+  "address": "843 Moore Unions Suite 817, Brandonville, ID 40174",
+  "employer_name": "Thomas-Henry",
+  "employer_ein": "84-5647007",
+  "employer_address": "88543 Sweeney Haven, South Joshuamouth, PR 11575",
+  "wages": 137740.83,
+  "federal_tax": 25564.01,
+  "ss_wages": 137740.83,
+  "ss_tax": 8539.93,
+  "medicare_tax": 1997.24,
+  "state": "SC",
+  "state_wages": 130853.79,
+  "state_tax": 6542.69,
+  "year": 2023
+}

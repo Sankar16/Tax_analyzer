@@ -1,0 +1,13 @@
+{
+  "name": "Zachary Waters",
+  "ssn": "853-60-2808",
+  "address": "843 Moore Unions Suite 817, Brandonville, ID 40174",
+  "filing_status": "Single",
+  "gross_income": 137740.83,
+  "adjustments": 1009.14,
+  "taxable_income": 122131.68999999997,
+  "tax": 14655.8,
+  "withholding": 25564.01,
+  "refund": 10908.21,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mr. Luis Willis",
+  "ssn": "428-65-3711",
+  "address": "7060 Jeremy Coves Apt. 260, Jasminport, AR 61389",
+  "employer_name": "Scott Inc",
+  "employer_ein": "39-5025222",
+  "employer_address": "6223 Michael Circle, Travisview, DC 05183",
+  "wages": 116592.94,
+  "federal_tax": 18253.25,
+  "ss_wages": 116592.94,
+  "ss_tax": 7228.76,
+  "medicare_tax": 1690.6,
+  "state": "PW",
+  "state_wages": 110763.29,
+  "state_tax": 5538.16,
+  "year": 2023
+}

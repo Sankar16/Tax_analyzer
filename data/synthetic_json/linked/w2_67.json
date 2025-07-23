@@ -1,0 +1,17 @@
+{
+  "name": "Gabriel Smith",
+  "ssn": "645-71-8773",
+  "address": "570 Steven Drive Suite 437, West Rachelland, CO 90108",
+  "employer_name": "Christensen LLC",
+  "employer_ein": "41-7597642",
+  "employer_address": "63459 Powers Mountain Suite 376, Raymondville, ID 58439",
+  "wages": 123189.83,
+  "federal_tax": 23711.37,
+  "ss_wages": 123189.83,
+  "ss_tax": 7637.77,
+  "medicare_tax": 1786.25,
+  "state": "MH",
+  "state_wages": 117030.34,
+  "state_tax": 5851.52,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Julie Washington",
+  "ssn": "596-24-7268",
+  "address": "344 Allison Station, Port Raymond, WV 14690",
+  "employer_name": "Flores-Farley",
+  "employer_ein": "15-2231334",
+  "employer_address": "299 Michael Lodge Apt. 412, South Jacquelinebury, OR 19488",
+  "wages": 84823.9,
+  "federal_tax": 10181.19,
+  "ss_wages": 84823.9,
+  "ss_tax": 5259.08,
+  "medicare_tax": 1229.95,
+  "state": "FL",
+  "state_wages": 80582.7,
+  "state_tax": 4029.14,
+  "year": 2023
+}

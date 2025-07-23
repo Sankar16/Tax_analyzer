@@ -1,0 +1,17 @@
+{
+  "name": "Daniel Cortez",
+  "ssn": "004-33-8239",
+  "address": "PSC 9776, Box 8750, APO AA 12685",
+  "employer_name": "Martinez-Bowen",
+  "employer_ein": "24-7603579",
+  "employer_address": "1237 Acosta Corners, Port Aprilshire, NC 80681",
+  "wages": 128457.21,
+  "federal_tax": 25128.6,
+  "ss_wages": 128457.21,
+  "ss_tax": 7964.35,
+  "medicare_tax": 1862.63,
+  "state": "DE",
+  "state_wages": 122034.35,
+  "state_tax": 6101.72,
+  "year": 2023
+}

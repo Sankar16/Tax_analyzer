@@ -1,0 +1,17 @@
+{
+  "name": "Margaret Contreras",
+  "ssn": "133-89-9609",
+  "address": "7309 Linda Burgs Apt. 819, West Hollytown, MN 14332",
+  "employer_name": "Tate-Nguyen",
+  "employer_ein": "53-3936688",
+  "employer_address": "35478 Richardson Unions Suite 412, Millerbury, MO 85945",
+  "wages": 76540.24,
+  "federal_tax": 14284.24,
+  "ss_wages": 76540.24,
+  "ss_tax": 4745.49,
+  "medicare_tax": 1109.83,
+  "state": "MH",
+  "state_wages": 72713.23,
+  "state_tax": 3635.66,
+  "year": 2023
+}

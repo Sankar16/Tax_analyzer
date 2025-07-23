@@ -1,0 +1,17 @@
+{
+  "name": "Sherry Johnson DDS",
+  "ssn": "111-30-7510",
+  "address": "4555 Rebecca Roads Apt. 987, Goodmanfort, WI 83682",
+  "employer_name": "Green Group",
+  "employer_ein": "70-1511316",
+  "employer_address": "2483 Allen Mews, Jacobshire, MS 79087",
+  "wages": 138089.42,
+  "federal_tax": 27545.32,
+  "ss_wages": 138089.42,
+  "ss_tax": 8561.54,
+  "medicare_tax": 2002.3,
+  "state": "CO",
+  "state_wages": 131184.95,
+  "state_tax": 6559.25,
+  "year": 2023
+}

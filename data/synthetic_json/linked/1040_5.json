@@ -1,0 +1,13 @@
+{
+  "name": "Calvin Bradshaw",
+  "ssn": "034-09-0440",
+  "address": "179 Rivera Park, Wilkersonview, PW 76756",
+  "filing_status": "Single",
+  "gross_income": 65495.72,
+  "adjustments": 1998.06,
+  "taxable_income": 48897.66,
+  "tax": 5867.72,
+  "withholding": 9410.58,
+  "refund": 3542.8599999999997,
+  "year": 2023
+}

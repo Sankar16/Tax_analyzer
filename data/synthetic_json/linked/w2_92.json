@@ -1,0 +1,17 @@
+{
+  "name": "James Watts",
+  "ssn": "688-15-9757",
+  "address": "3669 Lisa Vista Apt. 745, Deanville, AL 59491",
+  "employer_name": "Smith-Greene",
+  "employer_ein": "35-1138004",
+  "employer_address": "8368 Amy Rest Apt. 096, West Joshua, CT 37134",
+  "wages": 82943.35,
+  "federal_tax": 14354.95,
+  "ss_wages": 82943.35,
+  "ss_tax": 5142.49,
+  "medicare_tax": 1202.68,
+  "state": "WA",
+  "state_wages": 78796.18,
+  "state_tax": 3939.81,
+  "year": 2023
+}

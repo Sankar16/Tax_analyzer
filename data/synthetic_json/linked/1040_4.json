@@ -1,0 +1,13 @@
+{
+  "name": "Jennifer Singh",
+  "ssn": "258-94-4767",
+  "address": "8566 Ronald Vista Suite 345, North Douglas, FM 49484",
+  "filing_status": "Single",
+  "gross_income": 65763.84,
+  "adjustments": 1861.29,
+  "taxable_income": 49302.549999999996,
+  "tax": 5916.31,
+  "withholding": 10558.4,
+  "refund": 4642.089999999999,
+  "year": 2023
+}

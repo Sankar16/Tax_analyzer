@@ -1,0 +1,13 @@
+{
+  "name": "Nicole Humphrey",
+  "ssn": "744-30-3547",
+  "address": "1934 Lauren Pike, Lake Jacquelineton, VI 09030",
+  "filing_status": "Single",
+  "gross_income": 40255.12,
+  "adjustments": 4454.44,
+  "taxable_income": 21200.68,
+  "tax": 2544.08,
+  "withholding": 4269.8,
+  "refund": 1725.7200000000003,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lorraine Fitzgerald",
+  "ssn": "708-42-9841",
+  "address": "655 Amy Lights Apt. 317, Johnsonburgh, FM 13610",
+  "filing_status": "Single",
+  "gross_income": 76856.98,
+  "adjustments": 8816.83,
+  "taxable_income": 53440.149999999994,
+  "tax": 6412.82,
+  "withholding": 9413.78,
+  "refund": 3000.960000000001,
+  "year": 2023
+}

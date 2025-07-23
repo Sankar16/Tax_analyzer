@@ -1,0 +1,13 @@
+{
+  "name": "Anthony Hayes",
+  "ssn": "282-31-3403",
+  "address": "340 Curry Track Suite 987, Port Robin, AK 59545",
+  "filing_status": "Single",
+  "gross_income": 58947.28,
+  "adjustments": 4813.15,
+  "taxable_income": 39534.13,
+  "tax": 4744.1,
+  "withholding": 8474.23,
+  "refund": 3730.129999999999,
+  "year": 2023
+}

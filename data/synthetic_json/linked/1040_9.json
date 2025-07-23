@@ -1,0 +1,13 @@
+{
+  "name": "Dylan Lamb",
+  "ssn": "301-78-0099",
+  "address": "89716 Jay Groves, West Kimberly, MS 22148",
+  "filing_status": "Single",
+  "gross_income": 92983.43,
+  "adjustments": 1390.48,
+  "taxable_income": 76992.95,
+  "tax": 9239.15,
+  "withholding": 13418.0,
+  "refund": 4178.85,
+  "year": 2023
+}

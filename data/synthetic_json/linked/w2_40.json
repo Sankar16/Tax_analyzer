@@ -1,0 +1,17 @@
+{
+  "name": "Ronald Clark",
+  "ssn": "526-44-2837",
+  "address": "247 Tammie Knolls Suite 531, East Tiffany, MP 66784",
+  "employer_name": "Sexton-Collins",
+  "employer_ein": "97-1618775",
+  "employer_address": "0521 Denise Wall, North Amy, MP 07827",
+  "wages": 83236.4,
+  "federal_tax": 14580.4,
+  "ss_wages": 83236.4,
+  "ss_tax": 5160.66,
+  "medicare_tax": 1206.93,
+  "state": "VI",
+  "state_wages": 79074.58,
+  "state_tax": 3953.73,
+  "year": 2023
+}

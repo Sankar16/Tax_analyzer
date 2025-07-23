@@ -1,0 +1,13 @@
+{
+  "name": "Casey Stein",
+  "ssn": "702-43-4786",
+  "address": "7172 Miller Turnpike, Lake Nicholastown, NY 32856",
+  "filing_status": "Single",
+  "gross_income": 120288.98,
+  "adjustments": 1704.21,
+  "taxable_income": 103984.76999999999,
+  "tax": 12478.17,
+  "withholding": 16283.44,
+  "refund": 3805.2700000000004,
+  "year": 2023
+}

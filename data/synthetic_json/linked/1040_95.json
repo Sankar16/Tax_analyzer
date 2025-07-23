@@ -1,0 +1,13 @@
+{
+  "name": "Kimberly Bond",
+  "ssn": "308-62-2569",
+  "address": "49016 David Common Apt. 794, South Patricia, CO 63427",
+  "filing_status": "Single",
+  "gross_income": 106776.74,
+  "adjustments": 7282.21,
+  "taxable_income": 84894.53,
+  "tax": 10187.34,
+  "withholding": 12096.58,
+  "refund": 1909.2399999999998,
+  "year": 2023
+}

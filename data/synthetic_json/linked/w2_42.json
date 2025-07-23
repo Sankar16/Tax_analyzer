@@ -1,0 +1,17 @@
+{
+  "name": "Steven Miller",
+  "ssn": "284-14-9024",
+  "address": "396 Karen Shoals Apt. 382, Christopherview, GU 75568",
+  "employer_name": "Miranda Inc",
+  "employer_ein": "49-9304997",
+  "employer_address": "802 Jermaine Plaza, New Angelafurt, PR 03459",
+  "wages": 88541.43,
+  "federal_tax": 8921.66,
+  "ss_wages": 88541.43,
+  "ss_tax": 5489.57,
+  "medicare_tax": 1283.85,
+  "state": "NV",
+  "state_wages": 84114.36,
+  "state_tax": 4205.72,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Eric Robertson",
+  "ssn": "212-61-5812",
+  "address": "963 Tyler Ridges Apt. 100, Arnoldbury, AZ 75588",
+  "filing_status": "Single",
+  "gross_income": 123839.64,
+  "adjustments": 606.44,
+  "taxable_income": 108633.2,
+  "tax": 13035.98,
+  "withholding": 23560.77,
+  "refund": 10524.79,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mrs. Michelle White DDS",
+  "ssn": "807-16-9780",
+  "address": "Unit 9301 Box 9340, DPO AP 94029",
+  "employer_name": "Campbell-Allen",
+  "employer_ein": "19-1882313",
+  "employer_address": "377 Morrison Ramp, East Ronald, PR 35365",
+  "wages": 74683.78,
+  "federal_tax": 14431.25,
+  "ss_wages": 74683.78,
+  "ss_tax": 4630.39,
+  "medicare_tax": 1082.91,
+  "state": "NV",
+  "state_wages": 70949.59,
+  "state_tax": 3547.48,
+  "year": 2023
+}

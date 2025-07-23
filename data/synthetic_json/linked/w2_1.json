@@ -1,0 +1,17 @@
+{
+  "name": "Lindsey Hernandez",
+  "ssn": "403-13-0933",
+  "address": "8072 Jennifer Loaf, Port Brandonstad, MT 89270",
+  "employer_name": "Kelley Group",
+  "employer_ein": "34-9455640",
+  "employer_address": "14145 Bowman Junction Apt. 266, North Josephfurt, MP 21026",
+  "wages": 95880.07,
+  "federal_tax": 11538.37,
+  "ss_wages": 95880.07,
+  "ss_tax": 5944.56,
+  "medicare_tax": 1390.26,
+  "state": "MO",
+  "state_wages": 91086.07,
+  "state_tax": 4554.3,
+  "year": 2023
+}

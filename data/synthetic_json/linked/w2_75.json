@@ -1,0 +1,17 @@
+{
+  "name": "Casey Stein",
+  "ssn": "702-43-4786",
+  "address": "7172 Miller Turnpike, Lake Nicholastown, NY 32856",
+  "employer_name": "Johnson, Chavez and Hancock",
+  "employer_ein": "28-4723843",
+  "employer_address": "995 Emma Hills Apt. 032, Lake Kristy, HI 41981",
+  "wages": 120288.98,
+  "federal_tax": 16283.44,
+  "ss_wages": 120288.98,
+  "ss_tax": 7457.92,
+  "medicare_tax": 1744.19,
+  "state": "WV",
+  "state_wages": 114274.53,
+  "state_tax": 5713.73,
+  "year": 2023
+}

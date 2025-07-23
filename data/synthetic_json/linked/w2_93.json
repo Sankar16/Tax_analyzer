@@ -1,0 +1,17 @@
+{
+  "name": "James Gray",
+  "ssn": "842-30-0129",
+  "address": "6199 Alec Lodge, East Patrick, MI 35731",
+  "employer_name": "Hernandez-Terry",
+  "employer_ein": "58-8912738",
+  "employer_address": "55067 Adam Mountain Suite 158, Markfort, DC 98126",
+  "wages": 56685.82,
+  "federal_tax": 10267.14,
+  "ss_wages": 56685.82,
+  "ss_tax": 3514.52,
+  "medicare_tax": 821.94,
+  "state": "MT",
+  "state_wages": 53851.53,
+  "state_tax": 2692.58,
+  "year": 2023
+}

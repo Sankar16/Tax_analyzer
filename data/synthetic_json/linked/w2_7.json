@@ -1,0 +1,17 @@
+{
+  "name": "Nicole Craig",
+  "ssn": "840-24-3003",
+  "address": "75675 Nicholas Keys Suite 331, Greenechester, NC 52565",
+  "employer_name": "Guzman, Jimenez and Weaver",
+  "employer_ein": "64-7723432",
+  "employer_address": "319 Smith Haven Apt. 785, East Carriemouth, PR 09960",
+  "wages": 116453.97,
+  "federal_tax": 21242.96,
+  "ss_wages": 116453.97,
+  "ss_tax": 7220.15,
+  "medicare_tax": 1688.58,
+  "state": "WA",
+  "state_wages": 110631.27,
+  "state_tax": 5531.56,
+  "year": 2023
+}

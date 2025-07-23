@@ -1,0 +1,17 @@
+{
+  "name": "Steven Smith",
+  "ssn": "415-58-1697",
+  "address": "4679 Ashley Drive Apt. 868, Zacharybury, IN 04380",
+  "employer_name": "Smith Group",
+  "employer_ein": "49-5007404",
+  "employer_address": "152 Pitts Gardens, Vickieland, NM 33881",
+  "wages": 137761.65,
+  "federal_tax": 22411.77,
+  "ss_wages": 137761.65,
+  "ss_tax": 8541.22,
+  "medicare_tax": 1997.54,
+  "state": "VA",
+  "state_wages": 130873.57,
+  "state_tax": 6543.68,
+  "year": 2023
+}

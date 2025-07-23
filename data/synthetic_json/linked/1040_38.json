@@ -1,0 +1,13 @@
+{
+  "name": "Russell Dennis",
+  "ssn": "553-88-1722",
+  "address": "Unit 7135 Box 4928, DPO AE 80787",
+  "filing_status": "Single",
+  "gross_income": 119564.05,
+  "adjustments": 7359.98,
+  "taxable_income": 97604.07,
+  "tax": 11712.49,
+  "withholding": 22377.83,
+  "refund": 10665.340000000002,
+  "year": 2023
+}

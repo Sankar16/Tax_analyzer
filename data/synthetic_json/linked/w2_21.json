@@ -1,0 +1,17 @@
+{
+  "name": "Anthony Hayes",
+  "ssn": "282-31-3403",
+  "address": "340 Curry Track Suite 987, Port Robin, AK 59545",
+  "employer_name": "Leach-Le",
+  "employer_ein": "12-5885183",
+  "employer_address": "533 Underwood Hill Suite 226, East Suzannemouth, AR 13374",
+  "wages": 58947.28,
+  "federal_tax": 8474.23,
+  "ss_wages": 58947.28,
+  "ss_tax": 3654.73,
+  "medicare_tax": 854.74,
+  "state": "AZ",
+  "state_wages": 55999.92,
+  "state_tax": 2800.0,
+  "year": 2023
+}

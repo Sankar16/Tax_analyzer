@@ -1,0 +1,17 @@
+{
+  "name": "Albert Hughes",
+  "ssn": "766-43-9703",
+  "address": "678 Jack Viaduct Suite 283, Michellemouth, KY 80901",
+  "employer_name": "Parsons, Griffin and Cantrell",
+  "employer_ein": "15-6050812",
+  "employer_address": "17174 Henry Stream Suite 799, Rebeccamouth, OK 86531",
+  "wages": 147331.91,
+  "federal_tax": 23820.27,
+  "ss_wages": 147331.91,
+  "ss_tax": 9134.58,
+  "medicare_tax": 2136.31,
+  "state": "MD",
+  "state_wages": 139965.31,
+  "state_tax": 6998.27,
+  "year": 2023
+}

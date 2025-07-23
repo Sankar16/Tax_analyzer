@@ -1,0 +1,13 @@
+{
+  "name": "Jasmine Gardner",
+  "ssn": "549-58-8997",
+  "address": "0330 Matthew Light Suite 879, South Lauraville, CA 15005",
+  "filing_status": "Single",
+  "gross_income": 52228.97,
+  "adjustments": 4035.47,
+  "taxable_income": 33593.5,
+  "tax": 4031.22,
+  "withholding": 8728.71,
+  "refund": 4697.49,
+  "year": 2023
+}

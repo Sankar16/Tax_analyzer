@@ -1,0 +1,17 @@
+{
+  "name": "Emily Calhoun",
+  "ssn": "090-69-3696",
+  "address": "1945 Griffin Mount Apt. 617, Clarkport, FM 36868",
+  "employer_name": "Sandoval-Hawkins",
+  "employer_ein": "24-1706728",
+  "employer_address": "67501 Maureen Plaza, Amybury, OR 68343",
+  "wages": 124588.78,
+  "federal_tax": 14693.15,
+  "ss_wages": 124588.78,
+  "ss_tax": 7724.5,
+  "medicare_tax": 1806.54,
+  "state": "CO",
+  "state_wages": 118359.34,
+  "state_tax": 5917.97,
+  "year": 2023
+}

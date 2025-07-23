@@ -1,0 +1,17 @@
+{
+  "name": "Gregory Diaz",
+  "ssn": "084-37-2713",
+  "address": "3781 Bailey Station, Jenkinsville, NH 45642",
+  "employer_name": "White-Bautista",
+  "employer_ein": "75-2203458",
+  "employer_address": "035 Catherine Dale Suite 265, East Anthonybury, VA 23370",
+  "wages": 108304.04,
+  "federal_tax": 16838.61,
+  "ss_wages": 108304.04,
+  "ss_tax": 6714.85,
+  "medicare_tax": 1570.41,
+  "state": "CT",
+  "state_wages": 102888.84,
+  "state_tax": 5144.44,
+  "year": 2023
+}

@@ -1,0 +1,17 @@
+{
+  "name": "John Stafford",
+  "ssn": "175-39-5257",
+  "address": "409 Lozano Route, Anthonymouth, IL 70283",
+  "employer_name": "Jackson, Hull and Garza",
+  "employer_ein": "65-6103776",
+  "employer_address": "20176 Taylor Springs Suite 275, West Sara, SC 26747",
+  "wages": 53450.99,
+  "federal_tax": 9958.19,
+  "ss_wages": 53450.99,
+  "ss_tax": 3313.96,
+  "medicare_tax": 775.04,
+  "state": "AZ",
+  "state_wages": 50778.44,
+  "state_tax": 2538.92,
+  "year": 2023
+}

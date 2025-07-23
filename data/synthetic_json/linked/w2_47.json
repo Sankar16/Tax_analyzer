@@ -1,0 +1,17 @@
+{
+  "name": "Daniel Pope",
+  "ssn": "106-70-1552",
+  "address": "706 Morrison Glen Apt. 087, Davidstad, HI 46739",
+  "employer_name": "Griffin and Sons",
+  "employer_ein": "17-9557508",
+  "employer_address": "USCGC Smith, FPO AA 82109",
+  "wages": 138547.62,
+  "federal_tax": 21872.27,
+  "ss_wages": 138547.62,
+  "ss_tax": 8589.95,
+  "medicare_tax": 2008.94,
+  "state": "CO",
+  "state_wages": 131620.24,
+  "state_tax": 6581.01,
+  "year": 2023
+}

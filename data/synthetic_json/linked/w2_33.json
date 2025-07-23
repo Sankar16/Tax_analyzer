@@ -1,0 +1,17 @@
+{
+  "name": "Douglas Horton",
+  "ssn": "864-37-6447",
+  "address": "Unit 8067 Box 9540, DPO AA 06597",
+  "employer_name": "Burke, Williams and Thomas",
+  "employer_ein": "43-9920164",
+  "employer_address": "4303 Patton Ford Suite 405, East Lisa, NC 54095",
+  "wages": 41376.36,
+  "federal_tax": 8251.88,
+  "ss_wages": 41376.36,
+  "ss_tax": 2565.33,
+  "medicare_tax": 599.96,
+  "state": "SD",
+  "state_wages": 39307.54,
+  "state_tax": 1965.38,
+  "year": 2023
+}

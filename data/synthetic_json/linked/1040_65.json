@@ -1,0 +1,13 @@
+{
+  "name": "Jo Gill",
+  "ssn": "353-75-0229",
+  "address": "1027 Miller Glens, South Erikashire, SD 50824",
+  "filing_status": "Single",
+  "gross_income": 84478.12,
+  "adjustments": 9338.01,
+  "taxable_income": 60540.11,
+  "tax": 7264.81,
+  "withholding": 8989.56,
+  "refund": 1724.749999999999,
+  "year": 2023
+}

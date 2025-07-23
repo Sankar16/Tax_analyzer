@@ -1,0 +1,17 @@
+{
+  "name": "Katie Acosta",
+  "ssn": "736-20-4965",
+  "address": "018 Richard Lodge, North Tanyashire, MI 25528",
+  "employer_name": "Brown-Melendez",
+  "employer_ein": "94-2000245",
+  "employer_address": "3174 Makayla Avenue Apt. 954, Lake Michael, TN 07643",
+  "wages": 108062.52,
+  "federal_tax": 18450.63,
+  "ss_wages": 108062.52,
+  "ss_tax": 6699.88,
+  "medicare_tax": 1566.91,
+  "state": "NJ",
+  "state_wages": 102659.39,
+  "state_tax": 5132.97,
+  "year": 2023
+}

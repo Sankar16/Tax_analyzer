@@ -1,0 +1,13 @@
+{
+  "name": "Kimberly Johnson",
+  "ssn": "537-84-4340",
+  "address": "21970 Arias Forest Suite 201, Lake Taylorhaven, NH 69150",
+  "filing_status": "Single",
+  "gross_income": 47783.41,
+  "adjustments": 3821.44,
+  "taxable_income": 29361.97,
+  "tax": 3523.44,
+  "withholding": 8414.36,
+  "refund": 4890.92,
+  "year": 2023
+}

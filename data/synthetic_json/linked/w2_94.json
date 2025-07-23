@@ -1,0 +1,17 @@
+{
+  "name": "James Hernandez",
+  "ssn": "806-81-3728",
+  "address": "870 Ferrell Canyon, Lake Monica, CA 98332",
+  "employer_name": "Marks-Franklin",
+  "employer_ein": "81-7323721",
+  "employer_address": "074 Crawford Park, Lake Lisastad, MD 45025",
+  "wages": 124528.12,
+  "federal_tax": 20428.1,
+  "ss_wages": 124528.12,
+  "ss_tax": 7720.74,
+  "medicare_tax": 1805.66,
+  "state": "CA",
+  "state_wages": 118301.71,
+  "state_tax": 5915.09,
+  "year": 2023
+}

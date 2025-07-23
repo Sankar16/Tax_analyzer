@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Luis Willis",
+  "ssn": "428-65-3711",
+  "address": "7060 Jeremy Coves Apt. 260, Jasminport, AR 61389",
+  "filing_status": "Single",
+  "gross_income": 116592.94,
+  "adjustments": 7719.68,
+  "taxable_income": 94273.26000000001,
+  "tax": 11312.79,
+  "withholding": 18253.25,
+  "refund": 6940.459999999999,
+  "year": 2023
+}

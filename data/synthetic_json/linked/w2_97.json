@@ -1,0 +1,17 @@
+{
+  "name": "Scott White",
+  "ssn": "156-15-5312",
+  "address": "326 Morris Creek Apt. 547, Port Juliaville, NV 50066",
+  "employer_name": "Moore PLC",
+  "employer_ein": "40-7129945",
+  "employer_address": "81074 Austin Plains, East Laurenshire, RI 11007",
+  "wages": 110626.03,
+  "federal_tax": 16444.51,
+  "ss_wages": 110626.03,
+  "ss_tax": 6858.81,
+  "medicare_tax": 1604.08,
+  "state": "SC",
+  "state_wages": 105094.73,
+  "state_tax": 5254.74,
+  "year": 2023
+}

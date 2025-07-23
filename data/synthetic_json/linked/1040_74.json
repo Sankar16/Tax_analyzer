@@ -1,0 +1,13 @@
+{
+  "name": "Kelly Carey",
+  "ssn": "281-39-8568",
+  "address": "201 Derek Plain, Andrewbury, AR 52433",
+  "filing_status": "Single",
+  "gross_income": 70479.96,
+  "adjustments": 3473.08,
+  "taxable_income": 52406.880000000005,
+  "tax": 6288.83,
+  "withholding": 11117.89,
+  "refund": 4829.0599999999995,
+  "year": 2023
+}

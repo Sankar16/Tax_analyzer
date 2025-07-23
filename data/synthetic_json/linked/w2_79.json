@@ -1,0 +1,17 @@
+{
+  "name": "Leah Bennett",
+  "ssn": "709-90-5318",
+  "address": "73952 Huff Oval, Port Donnamouth, GU 57372",
+  "employer_name": "Wright, Gregory and Brown",
+  "employer_ein": "25-4781376",
+  "employer_address": "30108 Davis Mission, Lake Richardmouth, NJ 61170",
+  "wages": 81574.24,
+  "federal_tax": 13451.35,
+  "ss_wages": 81574.24,
+  "ss_tax": 5057.6,
+  "medicare_tax": 1182.83,
+  "state": "FM",
+  "state_wages": 77495.53,
+  "state_tax": 3874.78,
+  "year": 2023
+}

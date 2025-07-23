@@ -1,0 +1,17 @@
+{
+  "name": "Donald Lucas",
+  "ssn": "881-94-4010",
+  "address": "8363 Cynthia Spurs, North William, OH 24256",
+  "employer_name": "Durham Ltd",
+  "employer_ein": "91-7316718",
+  "employer_address": "826 Gilbert Unions Suite 240, Wrightberg, FL 73332",
+  "wages": 126491.31,
+  "federal_tax": 22109.78,
+  "ss_wages": 126491.31,
+  "ss_tax": 7842.46,
+  "medicare_tax": 1834.12,
+  "state": "GU",
+  "state_wages": 120166.74,
+  "state_tax": 6008.34,
+  "year": 2023
+}

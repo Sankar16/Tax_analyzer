@@ -1,0 +1,13 @@
+{
+  "name": "Nicole Price",
+  "ssn": "050-23-7835",
+  "address": "006 Roberts Mill Suite 783, West Erica, AK 60722",
+  "filing_status": "Single",
+  "gross_income": 40457.23,
+  "adjustments": 3958.65,
+  "taxable_income": 21898.58,
+  "tax": 2627.83,
+  "withholding": 5486.27,
+  "refund": 2858.4400000000005,
+  "year": 2023
+}

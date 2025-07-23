@@ -1,0 +1,13 @@
+{
+  "name": "Kathy Sanders",
+  "ssn": "770-08-3202",
+  "address": "6931 Erica Passage, Singhmouth, MP 86271",
+  "filing_status": "Single",
+  "gross_income": 62411.15,
+  "adjustments": 3502.69,
+  "taxable_income": 44308.46,
+  "tax": 5317.02,
+  "withholding": 10354.74,
+  "refund": 5037.719999999999,
+  "year": 2023
+}

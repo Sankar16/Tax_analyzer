@@ -1,0 +1,13 @@
+{
+  "name": "Heidi Lucas",
+  "ssn": "533-59-3594",
+  "address": "USS Miller, FPO AE 85537",
+  "filing_status": "Single",
+  "gross_income": 126284.01,
+  "adjustments": 4384.32,
+  "taxable_income": 107299.69,
+  "tax": 12875.96,
+  "withholding": 15586.17,
+  "refund": 2710.210000000001,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Donald Lucas",
+  "ssn": "881-94-4010",
+  "address": "8363 Cynthia Spurs, North William, OH 24256",
+  "filing_status": "Single",
+  "gross_income": 126491.31,
+  "adjustments": 4148.18,
+  "taxable_income": 107743.13,
+  "tax": 12929.18,
+  "withholding": 22109.78,
+  "refund": 9180.599999999999,
+  "year": 2023
+}

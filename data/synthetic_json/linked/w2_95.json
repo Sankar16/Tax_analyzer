@@ -1,0 +1,17 @@
+{
+  "name": "Kimberly Bond",
+  "ssn": "308-62-2569",
+  "address": "49016 David Common Apt. 794, South Patricia, CO 63427",
+  "employer_name": "Schwartz Inc",
+  "employer_ein": "93-1473887",
+  "employer_address": "60688 Andrew Fords Suite 235, East Matthew, WA 92966",
+  "wages": 106776.74,
+  "federal_tax": 12096.58,
+  "ss_wages": 106776.74,
+  "ss_tax": 6620.16,
+  "medicare_tax": 1548.26,
+  "state": "HI",
+  "state_wages": 101437.9,
+  "state_tax": 5071.9,
+  "year": 2023
+}

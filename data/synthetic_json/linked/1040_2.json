@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Henry Lewis",
+  "ssn": "143-53-7125",
+  "address": "4927 Rojas Gardens Suite 848, Cruzborough, KY 46401",
+  "filing_status": "Single",
+  "gross_income": 126263.31,
+  "adjustments": 2676.88,
+  "taxable_income": 108986.43,
+  "tax": 13078.37,
+  "withholding": 23281.75,
+  "refund": 10203.38,
+  "year": 2023
+}

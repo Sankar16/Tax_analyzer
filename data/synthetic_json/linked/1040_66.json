@@ -1,0 +1,13 @@
+{
+  "name": "Gregory Moody",
+  "ssn": "753-56-6970",
+  "address": "63892 Cain Gardens, Williamsside, CT 45432",
+  "filing_status": "Single",
+  "gross_income": 46508.4,
+  "adjustments": 8666.05,
+  "taxable_income": 23242.350000000006,
+  "tax": 2789.08,
+  "withholding": 7581.68,
+  "refund": 4792.6,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lisa Edwards",
+  "ssn": "095-14-4441",
+  "address": "781 Jacob Views, Daleberg, MD 53027",
+  "filing_status": "Single",
+  "gross_income": 49536.47,
+  "adjustments": 3839.62,
+  "taxable_income": 31096.85,
+  "tax": 3731.62,
+  "withholding": 6868.95,
+  "refund": 3137.33,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Steven Cooper",
+  "ssn": "213-59-9674",
+  "address": "49326 Larson Drive Suite 606, Hoffmanchester, MH 79654",
+  "filing_status": "Single",
+  "gross_income": 110858.78,
+  "adjustments": 5696.25,
+  "taxable_income": 90562.53,
+  "tax": 10867.5,
+  "withholding": 18010.99,
+  "refund": 7143.490000000002,
+  "year": 2023
+}

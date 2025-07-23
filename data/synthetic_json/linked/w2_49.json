@@ -1,0 +1,17 @@
+{
+  "name": "Joseph Jones",
+  "ssn": "650-20-4859",
+  "address": "630 Garza Knolls Apt. 899, Lake Mary, TN 63609",
+  "employer_name": "Davis Group",
+  "employer_ein": "82-4579382",
+  "employer_address": "7787 Jacob Throughway, East Matthewborough, NC 80675",
+  "wages": 125621.0,
+  "federal_tax": 18851.67,
+  "ss_wages": 125621.0,
+  "ss_tax": 7788.5,
+  "medicare_tax": 1821.5,
+  "state": "VT",
+  "state_wages": 119339.95,
+  "state_tax": 5967.0,
+  "year": 2023
+}

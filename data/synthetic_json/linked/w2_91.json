@@ -1,0 +1,17 @@
+{
+  "name": "Ralph Spencer",
+  "ssn": "614-75-8233",
+  "address": "951 Morris Union, Riveraborough, SD 92593",
+  "employer_name": "Benitez, Hines and Flores",
+  "employer_ein": "13-7143788",
+  "employer_address": "3408 Kim Villages, South Ashlee, MN 27860",
+  "wages": 143755.83,
+  "federal_tax": 28394.31,
+  "ss_wages": 143755.83,
+  "ss_tax": 8912.86,
+  "medicare_tax": 2084.46,
+  "state": "GU",
+  "state_wages": 136568.04,
+  "state_tax": 6828.4,
+  "year": 2023
+}

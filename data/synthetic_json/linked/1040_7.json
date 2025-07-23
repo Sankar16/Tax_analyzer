@@ -1,0 +1,13 @@
+{
+  "name": "Nicole Craig",
+  "ssn": "840-24-3003",
+  "address": "75675 Nicholas Keys Suite 331, Greenechester, NC 52565",
+  "filing_status": "Single",
+  "gross_income": 116453.97,
+  "adjustments": 990.47,
+  "taxable_income": 100863.5,
+  "tax": 12103.62,
+  "withholding": 21242.96,
+  "refund": 9139.339999999998,
+  "year": 2023
+}

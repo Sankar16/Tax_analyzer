@@ -1,0 +1,17 @@
+{
+  "name": "Paul Cortez",
+  "ssn": "173-76-4545",
+  "address": "20119 Jessica Oval, Glennfort, MA 98067",
+  "employer_name": "Fowler, Roberts and Henry",
+  "employer_ein": "49-4605146",
+  "employer_address": "843 Miller Ford Suite 865, North Joseph, NV 52587",
+  "wages": 42605.42,
+  "federal_tax": 7845.05,
+  "ss_wages": 42605.42,
+  "ss_tax": 2641.54,
+  "medicare_tax": 617.78,
+  "state": "VT",
+  "state_wages": 40475.15,
+  "state_tax": 2023.76,
+  "year": 2023
+}

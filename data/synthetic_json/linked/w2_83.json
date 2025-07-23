@@ -1,0 +1,17 @@
+{
+  "name": "Todd Stewart",
+  "ssn": "279-41-5820",
+  "address": "0948 Edwin Cliffs Apt. 134, Mariaborough, CO 42791",
+  "employer_name": "Hernandez, Williams and Jones",
+  "employer_ein": "81-8298166",
+  "employer_address": "156 Wells Roads Apt. 254, South Jessicaburgh, SC 25323",
+  "wages": 76244.56,
+  "federal_tax": 9610.03,
+  "ss_wages": 76244.56,
+  "ss_tax": 4727.16,
+  "medicare_tax": 1105.55,
+  "state": "TN",
+  "state_wages": 72432.33,
+  "state_tax": 3621.62,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ellen Burke",
+  "ssn": "030-07-1861",
+  "address": "9602 Edwin Locks Suite 993, Mooreborough, WI 73490",
+  "filing_status": "Single",
+  "gross_income": 129176.87,
+  "adjustments": 8685.09,
+  "taxable_income": 105891.78,
+  "tax": 12707.01,
+  "withholding": 23191.44,
+  "refund": 10484.429999999998,
+  "year": 2023
+}

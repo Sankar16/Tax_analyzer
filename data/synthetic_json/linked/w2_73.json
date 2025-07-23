@@ -1,0 +1,17 @@
+{
+  "name": "Kathy Sanders",
+  "ssn": "770-08-3202",
+  "address": "6931 Erica Passage, Singhmouth, MP 86271",
+  "employer_name": "Watkins-Wolf",
+  "employer_ein": "73-3189209",
+  "employer_address": "4069 Brittany Lodge, Marcshire, MS 18261",
+  "wages": 62411.15,
+  "federal_tax": 10354.74,
+  "ss_wages": 62411.15,
+  "ss_tax": 3869.49,
+  "medicare_tax": 904.96,
+  "state": "GU",
+  "state_wages": 59290.59,
+  "state_tax": 2964.53,
+  "year": 2023
+}

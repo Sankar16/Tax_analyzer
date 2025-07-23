@@ -1,0 +1,17 @@
+{
+  "name": "Stefanie Leblanc",
+  "ssn": "770-60-9357",
+  "address": "60198 Tony Ranch Apt. 413, Pattersonberg, WA 33858",
+  "employer_name": "Roy, Thompson and Brown",
+  "employer_ein": "20-4873150",
+  "employer_address": "4785 Brooks Trail, Carrollburgh, AZ 95421",
+  "wages": 110323.58,
+  "federal_tax": 16281.25,
+  "ss_wages": 110323.58,
+  "ss_tax": 6840.06,
+  "medicare_tax": 1599.69,
+  "state": "FM",
+  "state_wages": 104807.4,
+  "state_tax": 5240.37,
+  "year": 2023
+}

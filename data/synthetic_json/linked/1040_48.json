@@ -1,0 +1,13 @@
+{
+  "name": "Colton Hodge",
+  "ssn": "429-68-4554",
+  "address": "957 Adrian Valleys, Buchananton, WV 17869",
+  "filing_status": "Single",
+  "gross_income": 144697.58,
+  "adjustments": 2335.4,
+  "taxable_income": 127762.18,
+  "tax": 15331.46,
+  "withholding": 25209.64,
+  "refund": 9878.18,
+  "year": 2023
+}

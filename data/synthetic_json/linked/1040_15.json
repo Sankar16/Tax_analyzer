@@ -1,0 +1,13 @@
+{
+  "name": "Jennifer Randall",
+  "ssn": "795-80-1154",
+  "address": "9616 Katrina Islands Suite 117, Lake Benjamin, MI 79945",
+  "filing_status": "Single",
+  "gross_income": 144997.53,
+  "adjustments": 2930.57,
+  "taxable_income": 127466.95999999999,
+  "tax": 15296.04,
+  "withholding": 16821.42,
+  "refund": 1525.3799999999974,
+  "year": 2023
+}

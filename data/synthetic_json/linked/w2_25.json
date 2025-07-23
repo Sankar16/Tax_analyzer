@@ -1,0 +1,17 @@
+{
+  "name": "William Lynch",
+  "ssn": "555-92-0935",
+  "address": "PSC 4095, Box 8010, APO AA 02036",
+  "employer_name": "Morrow and Sons",
+  "employer_ein": "24-5837298",
+  "employer_address": "491 Perez Square, South Catherine, LA 09034",
+  "wages": 52627.15,
+  "federal_tax": 7384.11,
+  "ss_wages": 52627.15,
+  "ss_tax": 3262.88,
+  "medicare_tax": 763.09,
+  "state": "RI",
+  "state_wages": 49995.79,
+  "state_tax": 2499.79,
+  "year": 2023
+}

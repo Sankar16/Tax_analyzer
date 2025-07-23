@@ -1,0 +1,17 @@
+{
+  "name": "Mr. Eric Robertson",
+  "ssn": "212-61-5812",
+  "address": "963 Tyler Ridges Apt. 100, Arnoldbury, AZ 75588",
+  "employer_name": "Jackson, Martin and Zimmerman",
+  "employer_ein": "15-1764815",
+  "employer_address": "50935 Heather Viaduct, Sanchezville, WV 11123",
+  "wages": 123839.64,
+  "federal_tax": 23560.77,
+  "ss_wages": 123839.64,
+  "ss_tax": 7678.06,
+  "medicare_tax": 1795.67,
+  "state": "TX",
+  "state_wages": 117647.66,
+  "state_tax": 5882.38,
+  "year": 2023
+}

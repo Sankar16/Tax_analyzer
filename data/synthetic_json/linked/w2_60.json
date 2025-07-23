@@ -1,0 +1,17 @@
+{
+  "name": "Ellen Burke",
+  "ssn": "030-07-1861",
+  "address": "9602 Edwin Locks Suite 993, Mooreborough, WI 73490",
+  "employer_name": "Jones-Bird",
+  "employer_ein": "34-2476977",
+  "employer_address": "9116 Hunter Manors, Scottton, NY 69699",
+  "wages": 129176.87,
+  "federal_tax": 23191.44,
+  "ss_wages": 129176.87,
+  "ss_tax": 8008.97,
+  "medicare_tax": 1873.06,
+  "state": "AK",
+  "state_wages": 122718.03,
+  "state_tax": 6135.9,
+  "year": 2023
+}

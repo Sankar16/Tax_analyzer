@@ -1,0 +1,13 @@
+{
+  "name": "Albert Hughes",
+  "ssn": "766-43-9703",
+  "address": "678 Jack Viaduct Suite 283, Michellemouth, KY 80901",
+  "filing_status": "Single",
+  "gross_income": 147331.91,
+  "adjustments": 9662.51,
+  "taxable_income": 123069.4,
+  "tax": 14768.33,
+  "withholding": 23820.27,
+  "refund": 9051.94,
+  "year": 2023
+}

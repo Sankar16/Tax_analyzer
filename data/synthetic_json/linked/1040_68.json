@@ -1,0 +1,13 @@
+{
+  "name": "Barbara Hart",
+  "ssn": "386-81-6126",
+  "address": "18494 Ward Route, South Christinaland, MA 81676",
+  "filing_status": "Single",
+  "gross_income": 51696.51,
+  "adjustments": 3127.45,
+  "taxable_income": 33969.060000000005,
+  "tax": 4076.29,
+  "withholding": 9354.61,
+  "refund": 5278.320000000001,
+  "year": 2023
+}

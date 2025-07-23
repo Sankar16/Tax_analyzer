@@ -1,0 +1,13 @@
+{
+  "name": "Paul Cortez",
+  "ssn": "173-76-4545",
+  "address": "20119 Jessica Oval, Glennfort, MA 98067",
+  "filing_status": "Single",
+  "gross_income": 42605.42,
+  "adjustments": 8639.68,
+  "taxable_income": 19365.739999999998,
+  "tax": 2323.89,
+  "withholding": 7845.05,
+  "refund": 5521.16,
+  "year": 2023
+}

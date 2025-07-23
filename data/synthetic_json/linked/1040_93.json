@@ -1,0 +1,13 @@
+{
+  "name": "James Gray",
+  "ssn": "842-30-0129",
+  "address": "6199 Alec Lodge, East Patrick, MI 35731",
+  "filing_status": "Single",
+  "gross_income": 56685.82,
+  "adjustments": 8699.84,
+  "taxable_income": 33385.979999999996,
+  "tax": 4006.32,
+  "withholding": 10267.14,
+  "refund": 6260.82,
+  "year": 2023
+}

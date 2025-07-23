@@ -1,0 +1,13 @@
+{
+  "name": "Jeremiah Jones",
+  "ssn": "289-81-0030",
+  "address": "59775 Mccarthy Forge Suite 939, Ronaldstad, AR 16801",
+  "filing_status": "Single",
+  "gross_income": 136840.24,
+  "adjustments": 6289.62,
+  "taxable_income": 115950.62,
+  "tax": 13914.07,
+  "withholding": 19817.1,
+  "refund": 5903.029999999999,
+  "year": 2023
+}

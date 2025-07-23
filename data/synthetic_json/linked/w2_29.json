@@ -1,0 +1,17 @@
+{
+  "name": "Nicole Price",
+  "ssn": "050-23-7835",
+  "address": "006 Roberts Mill Suite 783, West Erica, AK 60722",
+  "employer_name": "Thomas, Wiggins and Ritter",
+  "employer_ein": "28-6919175",
+  "employer_address": "132 James Street Suite 171, North Nicholeland, WY 54311",
+  "wages": 40457.23,
+  "federal_tax": 5486.27,
+  "ss_wages": 40457.23,
+  "ss_tax": 2508.35,
+  "medicare_tax": 586.63,
+  "state": "WV",
+  "state_wages": 38434.37,
+  "state_tax": 1921.72,
+  "year": 2023
+}

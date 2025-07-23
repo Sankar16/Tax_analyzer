@@ -1,0 +1,13 @@
+{
+  "name": "Bryan Anderson",
+  "ssn": "647-39-6698",
+  "address": "355 Smith Course Apt. 970, West Michelleburgh, UT 08911",
+  "filing_status": "Single",
+  "gross_income": 139976.3,
+  "adjustments": 3600.85,
+  "taxable_income": 121775.44999999998,
+  "tax": 14613.05,
+  "withholding": 20902.78,
+  "refund": 6289.73,
+  "year": 2023
+}

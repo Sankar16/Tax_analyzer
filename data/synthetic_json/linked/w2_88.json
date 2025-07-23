@@ -1,0 +1,17 @@
+{
+  "name": "Kimberly Johnson",
+  "ssn": "537-84-4340",
+  "address": "21970 Arias Forest Suite 201, Lake Taylorhaven, NH 69150",
+  "employer_name": "Webb, Beard and Tran",
+  "employer_ein": "99-7843666",
+  "employer_address": "7749 Linda Highway Apt. 617, Sullivanberg, GU 08852",
+  "wages": 47783.41,
+  "federal_tax": 8414.36,
+  "ss_wages": 47783.41,
+  "ss_tax": 2962.57,
+  "medicare_tax": 692.86,
+  "state": "AL",
+  "state_wages": 45394.24,
+  "state_tax": 2269.71,
+  "year": 2023
+}

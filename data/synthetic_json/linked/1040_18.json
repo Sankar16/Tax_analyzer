@@ -1,0 +1,13 @@
+{
+  "name": "Katie Acosta",
+  "ssn": "736-20-4965",
+  "address": "018 Richard Lodge, North Tanyashire, MI 25528",
+  "filing_status": "Single",
+  "gross_income": 108062.52,
+  "adjustments": 4730.85,
+  "taxable_income": 88731.67,
+  "tax": 10647.8,
+  "withholding": 18450.63,
+  "refund": 7802.830000000002,
+  "year": 2023
+}

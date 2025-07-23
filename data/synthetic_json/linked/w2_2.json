@@ -1,0 +1,17 @@
+{
+  "name": "Mr. Henry Lewis",
+  "ssn": "143-53-7125",
+  "address": "4927 Rojas Gardens Suite 848, Cruzborough, KY 46401",
+  "employer_name": "Carter and Sons",
+  "employer_ein": "52-9986051",
+  "employer_address": "160 Alexander Island Apt. 510, Smithview, AK 32684",
+  "wages": 126263.31,
+  "federal_tax": 23281.75,
+  "ss_wages": 126263.31,
+  "ss_tax": 7828.33,
+  "medicare_tax": 1830.82,
+  "state": "NE",
+  "state_wages": 119950.14,
+  "state_tax": 5997.51,
+  "year": 2023
+}

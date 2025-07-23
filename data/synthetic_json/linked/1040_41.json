@@ -1,0 +1,13 @@
+{
+  "name": "Amanda Williams",
+  "ssn": "595-08-7222",
+  "address": "5457 Hunter Key Suite 010, Vancestad, KY 94487",
+  "filing_status": "Single",
+  "gross_income": 48263.47,
+  "adjustments": 9591.4,
+  "taxable_income": 24072.07,
+  "tax": 2888.65,
+  "withholding": 9410.74,
+  "refund": 6522.09,
+  "year": 2023
+}

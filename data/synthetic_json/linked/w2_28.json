@@ -1,0 +1,17 @@
+{
+  "name": "Craig Rice",
+  "ssn": "390-76-8874",
+  "address": "56829 Michael Prairie Apt. 960, Scotttown, WA 52704",
+  "employer_name": "Robinson PLC",
+  "employer_ein": "46-3305621",
+  "employer_address": "718 Gould Overpass Apt. 372, Carolynburgh, AK 99112",
+  "wages": 41603.06,
+  "federal_tax": 6994.94,
+  "ss_wages": 41603.06,
+  "ss_tax": 2579.39,
+  "medicare_tax": 603.24,
+  "state": "AK",
+  "state_wages": 39522.91,
+  "state_tax": 1976.15,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gregory Diaz",
+  "ssn": "084-37-2713",
+  "address": "3781 Bailey Station, Jenkinsville, NH 45642",
+  "filing_status": "Single",
+  "gross_income": 108304.04,
+  "adjustments": 6963.5,
+  "taxable_income": 86740.54,
+  "tax": 10408.86,
+  "withholding": 16838.61,
+  "refund": 6429.75,
+  "year": 2023
+}

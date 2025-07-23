@@ -1,0 +1,17 @@
+{
+  "name": "Charles Martinez",
+  "ssn": "888-43-0566",
+  "address": "92497 Gilmore Mission, North Jenniferville, KS 30207",
+  "employer_name": "Shelton-Bowman",
+  "employer_ein": "83-2632706",
+  "employer_address": "42223 Carlos Divide Suite 027, West Jenniferland, ID 49907",
+  "wages": 147828.71,
+  "federal_tax": 27298.28,
+  "ss_wages": 147828.71,
+  "ss_tax": 9165.38,
+  "medicare_tax": 2143.52,
+  "state": "OH",
+  "state_wages": 140437.27,
+  "state_tax": 7021.86,
+  "year": 2023
+}

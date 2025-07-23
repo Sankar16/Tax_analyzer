@@ -1,0 +1,17 @@
+{
+  "name": "Tanner Butler",
+  "ssn": "317-72-8911",
+  "address": "20851 Turner Tunnel Suite 916, North Miguel, DE 21484",
+  "employer_name": "Reid, Oconnor and Crawford",
+  "employer_ein": "94-3025166",
+  "employer_address": "2141 Joshua Lock Apt. 320, Rebeccatown, WA 55182",
+  "wages": 61111.43,
+  "federal_tax": 9549.76,
+  "ss_wages": 61111.43,
+  "ss_tax": 3788.91,
+  "medicare_tax": 886.12,
+  "state": "OH",
+  "state_wages": 58055.86,
+  "state_tax": 2902.79,
+  "year": 2023
+}

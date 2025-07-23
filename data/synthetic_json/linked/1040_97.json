@@ -1,0 +1,13 @@
+{
+  "name": "Scott White",
+  "ssn": "156-15-5312",
+  "address": "326 Morris Creek Apt. 547, Port Juliaville, NV 50066",
+  "filing_status": "Single",
+  "gross_income": 110626.03,
+  "adjustments": 3533.91,
+  "taxable_income": 92492.12,
+  "tax": 11099.05,
+  "withholding": 16444.51,
+  "refund": 5345.459999999999,
+  "year": 2023
+}

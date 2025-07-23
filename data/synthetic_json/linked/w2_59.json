@@ -1,0 +1,17 @@
+{
+  "name": "Edgar Franklin",
+  "ssn": "753-67-5055",
+  "address": "4596 White Lock Suite 351, Brandonburgh, FM 42887",
+  "employer_name": "Douglas-Nelson",
+  "employer_ein": "46-5966131",
+  "employer_address": "29928 Mitchell Tunnel Apt. 451, Josephtown, AK 84832",
+  "wages": 79883.37,
+  "federal_tax": 8744.15,
+  "ss_wages": 79883.37,
+  "ss_tax": 4952.77,
+  "medicare_tax": 1158.31,
+  "state": "CO",
+  "state_wages": 75889.2,
+  "state_tax": 3794.46,
+  "year": 2023
+}

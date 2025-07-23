@@ -1,0 +1,13 @@
+{
+  "name": "Daniel Pope",
+  "ssn": "106-70-1552",
+  "address": "706 Morrison Glen Apt. 087, Davidstad, HI 46739",
+  "filing_status": "Single",
+  "gross_income": 138547.62,
+  "adjustments": 9328.97,
+  "taxable_income": 114618.65,
+  "tax": 13754.24,
+  "withholding": 21872.27,
+  "refund": 8118.030000000001,
+  "year": 2023
+}

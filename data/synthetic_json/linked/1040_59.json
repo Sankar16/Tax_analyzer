@@ -1,0 +1,13 @@
+{
+  "name": "Edgar Franklin",
+  "ssn": "753-67-5055",
+  "address": "4596 White Lock Suite 351, Brandonburgh, FM 42887",
+  "filing_status": "Single",
+  "gross_income": 79883.37,
+  "adjustments": 7514.98,
+  "taxable_income": 57768.39,
+  "tax": 6932.21,
+  "withholding": 8744.15,
+  "refund": 1811.9399999999996,
+  "year": 2023
+}

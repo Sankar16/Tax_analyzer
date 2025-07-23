@@ -1,0 +1,17 @@
+{
+  "name": "Lee Miller",
+  "ssn": "768-63-7722",
+  "address": "8744 Schmidt Mountains Suite 236, Pattersonborough, KY 58301",
+  "employer_name": "Nunez Inc",
+  "employer_ein": "16-5835198",
+  "employer_address": "931 Williams Walk Suite 418, New Jeremy, SD 61342",
+  "wages": 41817.94,
+  "federal_tax": 5698.63,
+  "ss_wages": 41817.94,
+  "ss_tax": 2592.71,
+  "medicare_tax": 606.36,
+  "state": "PA",
+  "state_wages": 39727.04,
+  "state_tax": 1986.35,
+  "year": 2023
+}

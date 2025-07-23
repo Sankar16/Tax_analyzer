@@ -1,0 +1,13 @@
+{
+  "name": "Craig Rice",
+  "ssn": "390-76-8874",
+  "address": "56829 Michael Prairie Apt. 960, Scotttown, WA 52704",
+  "filing_status": "Single",
+  "gross_income": 41603.06,
+  "adjustments": 988.73,
+  "taxable_income": 26014.329999999994,
+  "tax": 3121.72,
+  "withholding": 6994.94,
+  "refund": 3873.22,
+  "year": 2023
+}

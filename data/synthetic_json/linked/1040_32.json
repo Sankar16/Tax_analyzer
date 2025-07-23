@@ -1,0 +1,13 @@
+{
+  "name": "Jonathan Brown",
+  "ssn": "465-37-8360",
+  "address": "Unit 2305 Box 5290, DPO AP 37958",
+  "filing_status": "Single",
+  "gross_income": 134444.72,
+  "adjustments": 5803.4,
+  "taxable_income": 114041.32,
+  "tax": 13684.96,
+  "withholding": 24033.52,
+  "refund": 10348.560000000001,
+  "year": 2023
+}

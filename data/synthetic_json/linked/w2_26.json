@@ -1,0 +1,17 @@
+{
+  "name": "Craig Warren",
+  "ssn": "891-79-5171",
+  "address": "194 White Mountains Suite 674, Hansentown, MA 62245",
+  "employer_name": "Martin, Foster and Williams",
+  "employer_ein": "87-1211999",
+  "employer_address": "825 Stephen Gardens Suite 739, Mccoychester, NE 40236",
+  "wages": 117186.28,
+  "federal_tax": 20095.26,
+  "ss_wages": 117186.28,
+  "ss_tax": 7265.55,
+  "medicare_tax": 1699.2,
+  "state": "IL",
+  "state_wages": 111326.97,
+  "state_tax": 5566.35,
+  "year": 2023
+}

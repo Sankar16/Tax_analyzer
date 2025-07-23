@@ -1,0 +1,17 @@
+{
+  "name": "Lorraine Fitzgerald",
+  "ssn": "708-42-9841",
+  "address": "655 Amy Lights Apt. 317, Johnsonburgh, FM 13610",
+  "employer_name": "Adkins-Diaz",
+  "employer_ein": "73-1084333",
+  "employer_address": "PSC 9671, Box 2830, APO AE 10759",
+  "wages": 76856.98,
+  "federal_tax": 9413.78,
+  "ss_wages": 76856.98,
+  "ss_tax": 4765.13,
+  "medicare_tax": 1114.43,
+  "state": "IN",
+  "state_wages": 73014.13,
+  "state_tax": 3650.71,
+  "year": 2023
+}

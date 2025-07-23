@@ -1,0 +1,17 @@
+{
+  "name": "Eric Simpson",
+  "ssn": "646-05-5117",
+  "address": "Unit 3150 Box 1902, DPO AP 04044",
+  "employer_name": "Lane-Garcia",
+  "employer_ein": "85-3718194",
+  "employer_address": "29318 Smith Flats, Gomezfort, HI 84039",
+  "wages": 144082.59,
+  "federal_tax": 22501.99,
+  "ss_wages": 144082.59,
+  "ss_tax": 8933.12,
+  "medicare_tax": 2089.2,
+  "state": "OH",
+  "state_wages": 136878.46,
+  "state_tax": 6843.92,
+  "year": 2023
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ronald Clark",
+  "ssn": "526-44-2837",
+  "address": "247 Tammie Knolls Suite 531, East Tiffany, MP 66784",
+  "filing_status": "Single",
+  "gross_income": 83236.4,
+  "adjustments": 508.28,
+  "taxable_income": 68128.12,
+  "tax": 8175.37,
+  "withholding": 14580.4,
+  "refund": 6405.03,
+  "year": 2023
+}

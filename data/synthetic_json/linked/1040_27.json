@@ -1,0 +1,13 @@
+{
+  "name": "Jessica Craig",
+  "ssn": "066-60-3436",
+  "address": "7570 Douglas Island, Port Cherylbury, AK 88821",
+  "filing_status": "Single",
+  "gross_income": 70522.27,
+  "adjustments": 9608.28,
+  "taxable_income": 46313.990000000005,
+  "tax": 5557.68,
+  "withholding": 10784.0,
+  "refund": 5226.32,
+  "year": 2023
+}

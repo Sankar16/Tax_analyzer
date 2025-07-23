@@ -1,0 +1,13 @@
+{
+  "name": "Douglas Horton",
+  "ssn": "864-37-6447",
+  "address": "Unit 8067 Box 9540, DPO AA 06597",
+  "filing_status": "Single",
+  "gross_income": 41376.36,
+  "adjustments": 2352.32,
+  "taxable_income": 24424.04,
+  "tax": 2930.88,
+  "withholding": 8251.88,
+  "refund": 5320.999999999999,
+  "year": 2023
+}
