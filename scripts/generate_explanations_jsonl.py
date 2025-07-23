@@ -5,9 +5,10 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 
 # Load OpenAI Key
-#load_dotenv("../openai_key.env")
-#openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key = "REMOVED_SECRET"
+load_dotenv("../openai-key.env")
+openai.api_key = os.getenv("OPENAI_API_KEY")
+if not openai.api_key:
+    raise ValueError("OpenAI API key not found. Please set it in openai-key.env.")
 
 DATA_DIR = "../data/synthetic_json/linked"
 OUTPUT_JSONL = "../data/fine_tuning_tax_explanations.jsonl"

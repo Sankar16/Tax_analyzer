@@ -6,8 +6,11 @@ from dotenv import load_dotenv
 import pdfplumber
 
 # Load OpenAI API Key from .env
-#load_dotenv("openai_key.env")
-openai.api_key = "REMOVED_SECRET"
+load_dotenv("openai-key.env")
+openai.api_key = os.getenv("OPENAI_API_KEY")
+if not openai.api_key:
+    st.warning("OpenAI API key not found. Please set it in openai-key.env.")
+
 # Streamlit App Title
 st.title("Tax Document Analyzer (PDF Upload)")
 st.markdown("""
