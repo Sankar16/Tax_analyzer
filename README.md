@@ -85,6 +85,3 @@ This will process 100 pairs of W-2 and 1040 JSON files from `data/synthetic_json
 ## Notes
 - The scripts currently use a hardcoded OpenAI API key for demonstration. For security, use environment variables instead.
 - The explanations are generated using the GPT-4 model.
-
-## License
-Specify your license here. 
